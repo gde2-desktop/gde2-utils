@@ -1,0 +1,15 @@
+[Desktop Entry]
+_Name=Take Screenshot
+_Comment=Save images of your desktop or individual windows
+Exec=gde2-screenshot --interactive
+Terminal=false
+Type=Application
+Icon=applets-screenshooter
+StartupNotify=true
+Categories=GTK;Utility;
+Keywords=GDE2;screenshot;snapshot;desktop;window;image;
+OnlyShowIn=GDE2;
+X-GDE2-Bugzilla-Bugzilla=GDE2
+X-GDE2-Bugzilla-Product=gde2-utils
+X-GDE2-Bugzilla-Component=screenshot
+X-GDE2-Bugzilla-OtherBinaries=gde2-panel-screenshot

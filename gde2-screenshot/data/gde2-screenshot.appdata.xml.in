@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 GDE2 team <gde2-dev@ml.gde2-desktop.org> -->
+<component type="desktop">
+ <id>gde2-screenshot.desktop</id>
+ <metadata_license>CC0-1.0</metadata_license>
+ <project_license>GPL-2.0+</project_license>
+ <name>GDE2 Screenshot</name>
+ <_summary>A screenshot utility for GDE2 Desktop</_summary>
+ <_description>
+  <p>
+   GDE2 Screenshot is a simple utility that lets you capture screenshots
+   of your desktop or of application windows. You can select to copy them
+   to the system clipboard or save them in Portable Network Graphics (.png)
+   image format.
+  </p>
+ </_description>
+ <screenshots>
+  <screenshot type="default">
+   <image width="800" height="450">
+    https://alexpl.fedorapeople.org/AppData/gde2-screenshot/screens/gde2-screenshot_01.png
+   </image>
+  </screenshot>
+ </screenshots>
+ <url type="homepage">http://www.gde2-desktop.org</url>
+ <updatecontact>gde2-dev@ml.gde2-desktop.org</updatecontact>
+ <project_group>GDE2</project_group>
+</component>

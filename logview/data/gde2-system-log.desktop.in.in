@@ -1,0 +1,16 @@
+[Desktop Entry]
+_Name=Log File Viewer
+_Comment=View or monitor system log files
+Exec=gde2-system-log
+Icon=gde2-system-log
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;System;Monitor;
+Keywords=GDE2;monitor;view;system;log;files;logviewer;
+OnlyShowIn=GDE2;
+X-GDE2-DocPath=gde2-system-log/gde2-system-log.xml
+X-GDE2-Bugzilla-Bugzilla=GDE2
+X-GDE2-Bugzilla-Product=gde2-utils
+X-GDE2-Bugzilla-Component=logview
+X-GDE2-Bugzilla-Version=@VERSION@

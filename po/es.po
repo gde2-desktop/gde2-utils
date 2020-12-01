@@ -1,0 +1,3077 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Adolfo Jayme-Barrientos, 2015
+# Adolfo Jayme-Barrientos, 2014
+# Benjamin Perez Carrillo <benperezc@gmail.com>, 2015
+# Carlos Perelló Marín <carlos@gde2-db.org>, 2001
+# Daniel Aranda <dwarandae@gmail.com>, 2016
+# ebray187 <ebray187@gmail.com>, 2016
+# Emiliano Fascetti, 2014-2015
+# Francisco Javier F. Serrador <serrador@cvs.gde2.org>, 2003, 2004, 2005, 2006
+# Jorge González <jorgegonz@svn.gde2.org>, 2007, 2008, 2009
+# QA - Germán Poo Caamaño <gpoo@ubiobio.cl>, 2002
+msgid ""
+msgstr ""
+"Project-Id-Version: GDE2 Desktop Environment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-01 11:45+0300\n"
+"PO-Revision-Date: 2016-08-21 00:07+0000\n"
+"Last-Translator: Daniel Aranda <dwarandae@gmail.com>\n"
+"Language-Team: Spanish (http://www.transifex.com/gde2/GDE2/language/es/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../baobab/data/gde2-disk-usage-analyzer.desktop.in.in.h:1
+msgid "GDE2 Disk Usage Analyzer"
+msgstr "Analizador de uso de disco de GDE2"
+
+#: ../baobab/data/gde2-disk-usage-analyzer.desktop.in.in.h:2
+msgid "Check folder sizes and available disk space"
+msgstr "Compruebe el tamaño de las carpetas y el espacio disponible en disco"
+
+#: ../baobab/data/baobab-dialog-scan-props.ui.h:1
+msgid "Disk Usage Analyzer Preferences"
+msgstr "Preferencias del analizador de uso de disco"
+
+#: ../baobab/data/baobab-dialog-scan-props.ui.h:2
+msgid "Select _devices to include in filesystem scan:"
+msgstr "Seleccionar qué _dispositivos incluir en la inspección del sistema de archivos:"
+
+#: ../baobab/data/baobab-dialog-scan-props.ui.h:3
+msgid "_Monitor changes to your home folder"
+msgstr "_Monitorizar cambios en su carpeta personal"
+
+#: ../baobab/data/baobab-main-window.ui.h:1
+msgid "_Analyzer"
+msgstr "_Analizador"
+
+#: ../baobab/data/baobab-main-window.ui.h:2
+msgid "Scan _Home Folder"
+msgstr "Inspeccionar carpeta _personal"
+
+#: ../baobab/data/baobab-main-window.ui.h:3
+msgid "Scan _Filesystem"
+msgstr "Inspeccionar sistema de _archivos"
+
+#: ../baobab/data/baobab-main-window.ui.h:4
+msgid "Scan F_older..."
+msgstr "Inspeccionar _carpeta…"
+
+#: ../baobab/data/baobab-main-window.ui.h:5
+msgid "S_can Remote Folder..."
+msgstr "Inspeccionar carpeta _remota…"
+
+#: ../baobab/data/baobab-main-window.ui.h:6
+#: ../logview/src/logview-window.c:811
+#: ../gde2-dictionary/src/gdict-window.c:1298
+msgid "_Edit"
+msgstr "_Editar"
+
+#: ../baobab/data/baobab-main-window.ui.h:7
+msgid "_Expand All"
+msgstr "_Expandir todo"
+
+#: ../baobab/data/baobab-main-window.ui.h:8
+msgid "_Collapse All"
+msgstr "_Contraer todo"
+
+#: ../baobab/data/baobab-main-window.ui.h:9
+#: ../logview/src/logview-window.c:812
+#: ../gde2-dictionary/src/gdict-window.c:1299
+msgid "_View"
+msgstr "_Ver"
+
+#: ../baobab/data/baobab-main-window.ui.h:10
+msgid "_Toolbar"
+msgstr "Barra de _herramientas"
+
+#: ../baobab/data/baobab-main-window.ui.h:11
+msgid "St_atusbar"
+msgstr "Barra de _estado"
+
+#: ../baobab/data/baobab-main-window.ui.h:12
+msgid "All_ocated Space"
+msgstr "Espacio _ocupado"
+
+#: ../baobab/data/baobab-main-window.ui.h:13
+#: ../logview/src/logview-window.c:814
+#: ../gde2-dictionary/src/gdict-applet.c:1204
+#: ../gde2-dictionary/src/gdict-window.c:1301
+msgid "_Help"
+msgstr "Ay_uda"
+
+#. Help menu
+#: ../baobab/data/baobab-main-window.ui.h:14
+#: ../logview/src/logview-window.c:840
+#: ../gde2-dictionary/src/gdict-window.c:1351
+msgid "_Contents"
+msgstr "Índ_ice"
+
+#: ../baobab/data/baobab-main-window.ui.h:15 ../baobab/src/baobab.c:1244
+msgid "Disk Usage Analyzer"
+msgstr "Analizador de uso de disco"
+
+#: ../baobab/data/baobab-main-window.ui.h:16
+msgid "Scan home folder"
+msgstr "Inspecciona la carpeta personal"
+
+#: ../baobab/data/baobab-main-window.ui.h:17
+msgid "Scan Home"
+msgstr "Inspeccionar carpeta personal"
+
+#: ../baobab/data/baobab-main-window.ui.h:18
+msgid "Scan filesystem"
+msgstr "Inspecciona el sistema de archivos"
+
+#: ../baobab/data/baobab-main-window.ui.h:19
+msgid "Scan Filesystem"
+msgstr "Inspeccionar el sistema de archivos"
+
+#: ../baobab/data/baobab-main-window.ui.h:20
+msgid "Scan a folder"
+msgstr "Inspecciona una carpeta"
+
+#: ../baobab/data/baobab-main-window.ui.h:21
+msgid "Scan Folder"
+msgstr "Inspeccionar carpeta"
+
+#: ../baobab/data/baobab-main-window.ui.h:22
+msgid "Scan a remote folder"
+msgstr "Inspecciona una carpeta remota"
+
+#: ../baobab/data/baobab-main-window.ui.h:23
+msgid "Scan Remote Folder"
+msgstr "Inspeccionar carpeta remota"
+
+#: ../baobab/data/baobab-main-window.ui.h:24
+msgid "Stop scanning"
+msgstr "Detener la inspección"
+
+#: ../baobab/data/baobab-main-window.ui.h:25
+msgid "Refresh"
+msgstr "Refrescar"
+
+#: ../baobab/data/org.gde2.disk-usage-analyzer.gschema.xml.in.h:1
+msgid "Monitor Home"
+msgstr "Monitorizar carpeta personal"
+
+#: ../baobab/data/org.gde2.disk-usage-analyzer.gschema.xml.in.h:2
+msgid "Whether any change to the home directory should be monitored."
+msgstr "Indica si cualquier cambio en el directorio personal debe ser monitorizado."
+
+#: ../baobab/data/org.gde2.disk-usage-analyzer.gschema.xml.in.h:3
+msgid "Excluded partitions URIs"
+msgstr "URI de las particiones excluidas"
+
+#: ../baobab/data/org.gde2.disk-usage-analyzer.gschema.xml.in.h:4
+msgid "A list of URIs for partitions to be excluded from scanning."
+msgstr "Una lista de URI para las particiones que excluir de la inspección."
+
+#: ../baobab/data/org.gde2.disk-usage-analyzer.gschema.xml.in.h:5
+msgid "Toolbar is Visible"
+msgstr "La barra de herramientas es visible"
+
+#: ../baobab/data/org.gde2.disk-usage-analyzer.gschema.xml.in.h:6
+msgid "Whether the toolbar should be visible in main window."
+msgstr "Indica si la barra de herramientas debe ser visible en la ventana principal."
+
+#: ../baobab/data/org.gde2.disk-usage-analyzer.gschema.xml.in.h:7
+msgid "Statusbar is Visible"
+msgstr "La barra de estado es visible"
+
+#: ../baobab/data/org.gde2.disk-usage-analyzer.gschema.xml.in.h:8
+msgid "Whether the status bar at the bottom of main window should be visible."
+msgstr "Indica si la barra de estado en la parte inferior de la ventana principal debe ser visible."
+
+#: ../baobab/data/org.gde2.disk-usage-analyzer.gschema.xml.in.h:9
+msgid "Subfolder tips visible"
+msgstr "Información de subcarpetas visible"
+
+#: ../baobab/data/org.gde2.disk-usage-analyzer.gschema.xml.in.h:10
+msgid "Whether the subfolder tooltips of the selected folder are drawn."
+msgstr "Indica si se deben mostrar los comentarios de las subcarpetas de la carpeta seleccionada."
+
+#: ../baobab/data/org.gde2.disk-usage-analyzer.gschema.xml.in.h:11
+msgid "Active Chart"
+msgstr "Gráfico activo"
+
+#: ../baobab/data/org.gde2.disk-usage-analyzer.gschema.xml.in.h:12
+msgid "Which type of chart should be displayed."
+msgstr "Qué tipo de gráfico se debe mostrar."
+
+#: ../baobab/data/gde2-disk-usage-analyzer.appdata.xml.in.h:1
+msgid "A disk usage analyzing tool for GDE2 Desktop"
+msgstr "Una herramienta para analizar el uso del disco para el escritorio GDE2"
+
+#: ../baobab/data/gde2-disk-usage-analyzer.appdata.xml.in.h:2
+msgid ""
+"<p> As its name implies, Disk Usage Analyzer is a graphical utility that you"
+" can use to view and monitor your disk usage and folder structure. It "
+"displays summary information in ring or treemap charts. </p> <p> You can "
+"perform scans on a file system, your home or any other folder - local or "
+"remote. There is also an option to constantly monitor any external changes "
+"to the home directory and warn the user if a file is added/removed. </p>"
+msgstr "<p> Como su nombre lo indica, Analizador de uso de disco es una utilidad gráfica que puede utilizar para ver y controlar su uso del disco y la estructura de las carpetas. Muestra información resumida en gráficos de anillo o árbol. Puede escanear un sistema de archivos, su carpeta personal o cualquier otra carpeta - local o remota. También hay una opción para monitorizar constantemente los cambios externos a la carpeta personal y advertir al usuario cuando un archivo fue añadido/quitado. </p>"
+
+#: ../baobab/src/baobab.c:135 ../baobab/src/baobab.c:355
+msgid "Scanning..."
+msgstr "Inspeccionando…"
+
+#: ../baobab/src/baobab.c:181
+msgid "Total filesystem capacity:"
+msgstr "Capacidad total del sistema de archivos:"
+
+#: ../baobab/src/baobab.c:182
+msgid "used:"
+msgstr "Usado:"
+
+#: ../baobab/src/baobab.c:183
+msgid "available:"
+msgstr "Disponible:"
+
+#. set statusbar, percentage and allocated/normal size
+#: ../baobab/src/baobab.c:240 ../baobab/src/baobab.c:297
+#: ../baobab/src/callbacks.c:258
+msgid "Calculating percentage bars..."
+msgstr "Calculando barras de porcentajes…"
+
+#: ../baobab/src/baobab.c:251 ../baobab/src/baobab.c:1308
+#: ../baobab/src/callbacks.c:262
+msgid "Ready"
+msgstr "Preparado"
+
+#: ../baobab/src/baobab.c:389
+msgid "Total filesystem capacity"
+msgstr "Capacidad total de los sistemas de archivos"
+
+#: ../baobab/src/baobab.c:413
+msgid "Total filesystem usage"
+msgstr "Uso total de los sistemas de archivos"
+
+#: ../baobab/src/baobab.c:455
+msgid "contains hardlinks for:"
+msgstr "contiene enlaces duros de:"
+
+#: ../baobab/src/baobab.c:464
+#, c-format
+msgid "%5d item"
+msgid_plural "%5d items"
+msgstr[0] "%5d elemento"
+msgstr[1] "%5d elementos"
+
+#: ../baobab/src/baobab.c:590
+msgid "Could not initialize monitoring"
+msgstr "No se pudo inicializar la monitorización"
+
+#: ../baobab/src/baobab.c:591
+msgid "Changes to your home folder will not be monitored."
+msgstr "Los cambios en su carpeta personal no serán monitorizados."
+
+#: ../baobab/src/baobab.c:923
+msgid "Move to parent folder"
+msgstr "Mover a la carpeta superior"
+
+#: ../baobab/src/baobab.c:927
+msgid "Zoom in"
+msgstr "Ampliar"
+
+#: ../baobab/src/baobab.c:931
+msgid "Zoom out"
+msgstr "Reducir"
+
+#: ../baobab/src/baobab.c:935
+msgid "Save screenshot"
+msgstr "Guardar la captura de pantalla"
+
+#: ../baobab/src/baobab.c:1122
+msgid "View as Rings Chart"
+msgstr "Ver como gráfico de anillo"
+
+#: ../baobab/src/baobab.c:1124
+msgid "View as Treemap Chart"
+msgstr "Ver como gráfico de árbol"
+
+#: ../baobab/src/baobab.c:1233
+msgid "Show version"
+msgstr "Mostrar versión"
+
+#: ../baobab/src/baobab.c:1234
+msgid "[DIRECTORY]"
+msgstr "[DIRECTORIO]"
+
+#: ../baobab/src/baobab.c:1264
+msgid "Too many arguments. Only one directory can be specified."
+msgstr "Demasiados parámetros. Sólo se puede especificar un directorio."
+
+#: ../baobab/src/baobab.c:1281
+msgid "Could not detect any mount point."
+msgstr "No se pudo detectar ningún punto de montaje."
+
+#: ../baobab/src/baobab.c:1283
+msgid "Without mount points disk usage cannot be analyzed."
+msgstr "El uso del disco no se puede analizar sin puntos de montaje."
+
+#: ../baobab/src/baobab-chart.c:219
+msgid "Maximum depth"
+msgstr "Profundidad máxima"
+
+#: ../baobab/src/baobab-chart.c:220
+msgid "The maximum depth drawn in the chart from the root"
+msgstr "La profundidad máxima dibujada en el gráfico desde la raíz"
+
+#: ../baobab/src/baobab-chart.c:229
+msgid "Chart model"
+msgstr "Modelo de gráfico"
+
+#: ../baobab/src/baobab-chart.c:230
+msgid "Set the model of the chart"
+msgstr "Establece el modelo del gráfico"
+
+#: ../baobab/src/baobab-chart.c:237
+msgid "Chart root node"
+msgstr "Nodo raíz del gráfico"
+
+#: ../baobab/src/baobab-chart.c:238
+msgid "Set the root node from the model"
+msgstr "Establece el nodo raíz del modelo"
+
+#: ../baobab/src/baobab-chart.c:1759
+msgid "Cannot create pixbuf image!"
+msgstr "No se puede crear la imagen pixbuf"
+
+#. Popup the File chooser dialog
+#: ../baobab/src/baobab-chart.c:1769
+msgid "Save Snapshot"
+msgstr "Guardar captura"
+
+#: ../baobab/src/baobab-chart.c:1804
+msgid "_Image type:"
+msgstr "Tipo de _imagen:"
+
+#: ../baobab/src/baobab-prefs.c:172
+msgid "Scan"
+msgstr "Inspeccionar"
+
+#: ../baobab/src/baobab-prefs.c:179
+msgid "Device"
+msgstr "Dispositivo"
+
+#: ../baobab/src/baobab-prefs.c:187
+msgid "Mount Point"
+msgstr "Punto de montaje"
+
+#: ../baobab/src/baobab-prefs.c:195
+msgid "Filesystem Type"
+msgstr "Tipo de sistema de archivos"
+
+#: ../baobab/src/baobab-prefs.c:203
+msgid "Total Size"
+msgstr "Tamaño total"
+
+#: ../baobab/src/baobab-prefs.c:212
+msgid "Available"
+msgstr "Disponible"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:77
+#, c-format
+msgid "Cannot scan location \"%s\""
+msgstr "No se puede analizar la ubicación «%s»"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:175
+msgid "Custom Location"
+msgstr "Lugar personalizado"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:177
+msgid "SSH"
+msgstr "SSH"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:180
+msgid "Public FTP"
+msgstr "FTP público"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:182
+msgid "FTP (with login)"
+msgstr "FTP (con entrada)"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:185
+msgid "Windows share"
+msgstr "Compartición Windows"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:187
+msgid "WebDAV (HTTP)"
+msgstr "WebDAV (HTTP)"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:189
+msgid "Secure WebDAV (HTTPS)"
+msgstr "WebDAV seguro (HTTPS)"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:249
+msgid "Cannot Connect to Server. You must enter a name for the server."
+msgstr "No se puede conectar con el servidor. Debe introducir un nombre para el servidor."
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:252
+msgid "Please enter a name and try again."
+msgstr "Introduzca un nombre e inténtelo de nuevo."
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:441
+msgid "_Location (URI):"
+msgstr "_Lugar (URI):"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:468
+msgid "_Server:"
+msgstr "_Servidor:"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:492
+msgid "Optional information:"
+msgstr "Información opcional:"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:509
+msgid "_Share:"
+msgstr "_Compartición:"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:535
+#: ../gde2-dictionary/data/gde2-dictionary-source.ui.h:4
+msgid "_Port:"
+msgstr "_Puerto:"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:560
+msgid "_Folder:"
+msgstr "_Carpeta:"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:585
+msgid "_User Name:"
+msgstr "_Usuario:"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:611
+msgid "_Domain Name:"
+msgstr "Nombre del _dominio:"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:683
+msgid "Connect to Server"
+msgstr "Conectar con el servidor"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:707
+msgid "Service _type:"
+msgstr "_Tipo de servicio:"
+
+#: ../baobab/src/baobab-remote-connect-dialog.c:834
+msgid "_Scan"
+msgstr "In_speccionar"
+
+#: ../baobab/src/baobab-treeview.c:82
+msgid "Rescan your home folder?"
+msgstr "¿Quiere volver a inspeccionar su carpeta personal?"
+
+#: ../baobab/src/baobab-treeview.c:83
+msgid ""
+"The content of your home folder has changed. Select rescan to update the "
+"disk usage details."
+msgstr "El contenido de su carpeta personal ha cambiado. Seleccione volver a inspeccionar para actualizar los detalles de uso de disco."
+
+#: ../baobab/src/baobab-treeview.c:84
+msgid "_Rescan"
+msgstr "_Volver a inspeccionar"
+
+#: ../baobab/src/baobab-treeview.c:222 ../gsearchtool/src/gsearchtool.c:2455
+msgid "Folder"
+msgstr "Carpeta"
+
+#: ../baobab/src/baobab-treeview.c:244
+msgid "Usage"
+msgstr "Uso"
+
+#: ../baobab/src/baobab-treeview.c:258 ../gsearchtool/src/gsearchtool.c:2468
+msgid "Size"
+msgstr "Tamaño"
+
+#: ../baobab/src/baobab-treeview.c:274
+msgid "Contents"
+msgstr "Contenido"
+
+#: ../baobab/src/baobab-utils.c:106
+msgid "Select Folder"
+msgstr "Seleccione la carpeta"
+
+#. add extra widget
+#: ../baobab/src/baobab-utils.c:118
+msgid "_Show hidden folders"
+msgstr "_Mostrar carpetas ocultas"
+
+#: ../baobab/src/baobab-utils.c:299
+msgid "Cannot check an excluded folder!"
+msgstr "No se puede comprobar la carpeta excluida."
+
+#: ../baobab/src/baobab-utils.c:323
+#, c-format
+msgid "\"%s\" is not a valid folder"
+msgstr "«%s» no es una carpeta válida"
+
+#: ../baobab/src/baobab-utils.c:326
+msgid "Could not analyze disk usage."
+msgstr "No se pudo analizar el uso del disco."
+
+#: ../baobab/src/baobab-utils.c:362
+msgid "_Open Folder"
+msgstr "_Abrir carpeta"
+
+#: ../baobab/src/baobab-utils.c:368
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1210
+msgid "Mo_ve to Trash"
+msgstr "Mo_ver a la papelera"
+
+#: ../baobab/src/baobab-utils.c:402
+#, c-format
+msgid "Could not open folder \"%s\""
+msgstr "No se ha podido abrir la carpeta «%s»"
+
+#: ../baobab/src/baobab-utils.c:405
+msgid "There is no installed viewer capable of displaying the folder."
+msgstr "No hay instalado ningún visor capaz de mostrar la carpeta."
+
+#: ../baobab/src/baobab-utils.c:474
+#, c-format
+msgid "Could not move \"%s\" to the Trash"
+msgstr "No se ha podido mover «%s» a la papelera"
+
+#: ../baobab/src/baobab-utils.c:482
+msgid "Could not move file to the Trash"
+msgstr "No se pudo mover el archivo a la papelera"
+
+#: ../baobab/src/baobab-utils.c:484
+#, c-format
+msgid "Details: %s"
+msgstr "Detalles: %s"
+
+#: ../baobab/src/baobab-utils.c:520
+msgid "There was an error displaying help."
+msgstr "Hubo un error al mostrar la ayuda."
+
+#: ../baobab/src/callbacks.c:76 ../logview/src/logview-about.h:49
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version."
+msgstr "Este programa es software libre; puede distribuirlo y modificarlo bajo los términos GNU Licencia Publica General como fue publicado por la Free Software Foundation; en la versión 2 de la licencia, o (a su elección) cualquier versión posterior."
+
+#: ../baobab/src/callbacks.c:81 ../logview/src/logview-about.h:53
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for "
+"more details."
+msgstr "Este programa se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA, incluso sin la garantía implícita de COMERCIABILIDAD o IDONEIDAD PARA UN PROPÓSITO EN FIN. Véase la Licencia Pública General de GNU para más detalles."
+
+#: ../baobab/src/callbacks.c:86 ../logview/src/logview-about.h:57
+msgid ""
+"You should have received a copy of the GNU General Public License along with"
+" this program; if not, write to the Free Software Foundation, Inc., 51 "
+"Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA"
+msgstr "Debería haber recibido una copia de la Licencia Pública General GNU junto con el Visor de sucesos de GDE2; de lo contrario, escriba a la Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 EE. UU."
+
+#: ../baobab/src/callbacks.c:97
+msgid "A graphical tool to analyze disk usage."
+msgstr "Una herramienta gráfica para analizar el uso del disco."
+
+#. translator credits
+#: ../baobab/src/callbacks.c:103 ../logview/src/logview-about.h:63
+#: ../gde2-dictionary/src/gdict-about.c:55
+msgid "translator-credits"
+msgstr "Jorge González <jorgegonz@svn.gde2.org>, 2007-2009\nFrancisco Javier F. Serrador <serrador@cvs.gde2.org>, 2003-2006\nPablo Gonzalo del Campo <pablodc@bigfoot.com>,2002-2003\nQA - Germán Poo Caamaño <gpoo@ubiobio.cl>, 2002\nCarlos Perelló Marín <carlos@gde2-db.org>, 2001\nManuel de Vega Barreiro <barreiro@arrakis.es> 2000-2001\nPablo Saratxaga <srtxg@chanae.alphanet.ch> 1999\nMiguel de Icaza <miguel@metropolis.nuclecu.unam.mx> 1998"
+
+#: ../baobab/src/callbacks.c:201
+#: ../gsearchtool/src/gsearchtool-callbacks.c:508
+#: ../gsearchtool/src/gsearchtool-callbacks.c:848
+msgid "The document does not exist."
+msgstr "El documento no existe."
+
+#: ../baobab/src/callbacks.c:282
+msgid "The folder does not exist."
+msgstr "La carpeta no existe."
+
+#: ../gsearchtool/data/gde2-search-tool.appdata.xml.in.h:1
+msgid "A file searching tool for GDE2 Desktop"
+msgstr "Una herramienta de búsqueda de archivos para el escritorio GDE2"
+
+#: ../gsearchtool/data/gde2-search-tool.appdata.xml.in.h:2
+msgid ""
+"<p> GDE2 Search Tool is a simple but powerful utility that allows you to "
+"search for files and folders on any mounted file system. Its interface gives"
+" you instant access to a wide variety of parameters for each search, such as"
+" text contained within a file, ownership, date of modification, file size, "
+"folder exclusion, etc.. </p>"
+msgstr "<p> GDE2 Search Tool es una simple pero potente utilidad que le permite buscar archivos y carpetas en cualquier sistema de archivos montado. Su interfaz te da acceso instantáneo a una amplia variedad de parámetros para cada búsqueda, como texto contenido en un archivo, la propiedad, la fecha de modificación, tamaño del archivo, la posibilidad de excluir carpetas, etc.. </p>"
+
+#: ../gsearchtool/data/gde2-search-tool.desktop.in.h:1
+msgid "GDE2 Search Tool"
+msgstr "Herramienta de búsqueda de GDE2"
+
+#: ../gsearchtool/data/gde2-search-tool.desktop.in.h:2
+msgid "Locate documents and folders on this computer by name or content"
+msgstr "Encuentre documentos y carpetas en este equipo por nombre o por contenido"
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:1
+msgid "Search history"
+msgstr "Histórico de búsqueda"
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:2
+msgid "This key defines the items which were searched for in the past."
+msgstr "Esta clave define los elementos que se buscaron anteriormente."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:3
+msgid "Show Additional Options"
+msgstr "Mostrar opciones adicionales"
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:4
+msgid "Disable Quick Search"
+msgstr "Desactivar la «Búsqueda rápida»"
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:5
+msgid ""
+"This key determines if the search tool disables the use of the locate "
+"command when performing simple file name searches."
+msgstr "Esta clave determina si la herramienta de búsqueda desactiva el uso de la orden «locate» al realizar búsquedas simples de nombres de archivo."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:6
+msgid "Quick Search Excluded Paths"
+msgstr "Rutas excluidas para la búsqueda rápida"
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:7
+msgid ""
+"This key defines the paths the search tool will exclude from a quick search."
+" The wildcards '*' and '?' are supported. The default values are /mnt/*, "
+"/media/*, /dev/*, /tmp/*, /proc/*, and /var/*."
+msgstr "Esta clave define las rutas que la herramienta de búsqueda excluirá de una búsqueda rápida. Se soportan los comodines «*» y «?». Los valores predeterminados son  /mnt/*, /media/*, /dev/*, /tmp/*, /proc/*, y /var/*."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:8
+msgid "Disable Quick Search Second Scan"
+msgstr "Desactivar la «Segunda inspección de la búsqueda rápida»"
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:9
+msgid ""
+"This key determines if the search tool disables the use of the find command "
+"after performing a quick search."
+msgstr "Esta clave determina si la herramienta de búsqueda desactiva el uso de la orden «find» después de efectuar una búsqueda rápida."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:10
+msgid "Quick Search Second Scan Excluded Paths"
+msgstr "Rutas excluidas de la segunda inspección de la búsqueda rápida"
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:11
+msgid ""
+"This key defines the paths the search tool will exclude from a second scan "
+"when performing a quick search. The second scan uses the find command to "
+"search for files. The purpose of the second scan is to find files that have "
+"not been indexed. The wildcards '*' and '?' are supported. The default value"
+" is /."
+msgstr "Esta clave define las rutas que la herramienta de búsqueda excluirá de una segunda inspección al efectuar una búsqueda rápida. La segunda inspección usa la orden «find» para buscar archivos. El propósito de la segunda inspección es buscar archivos que no hayan sido indizados. Se admiten los comodines «*» y «?». El valor predeterminado es /."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:12
+msgid "Search Result Columns Order"
+msgstr "Orden de las columnas del resultado de la búsqueda"
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:13
+msgid ""
+"This key defines the order of the columns in the search results. This key "
+"should not be modified by the user."
+msgstr "Esta clave define el orden de las columnas en los resultados de la búsqueda. Esta clave no debería ser modificada por el usuario."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:14
+msgid "Default Window Width"
+msgstr "Anchura predeterminada de la ventana"
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:15
+msgid ""
+"This key defines the window width, and it's used to remember the size of the"
+" search tool between sessions. Setting it to -1 will make the search tool "
+"use the default width."
+msgstr "Esta clave define la anchura de la ventana, y se usa para recordar el tamaño de la herramienta de búsqueda entre las sesiones. Estableciéndola a -1 hará que la herramienta de búsqueda use la anchura predeterminada."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:16
+msgid "Default Window Height"
+msgstr "Altura predeterminada de la ventana"
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:17
+msgid ""
+"This key defines the window height, and it's used to remember the size of "
+"the search tool between sessions. Setting it to -1 will make the search tool"
+" use the default height."
+msgstr "Esta clave define la altura de la ventana, y se usa para recordar el tamaño de la herramienta de búsqueda entre las sesiones. Estableciéndola a -1 hará que la herramienta de búsqueda use la altura predeterminada."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:18
+msgid "Default Window Maximized"
+msgstr "Ventana maximizada por omisión"
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:19
+msgid ""
+"This key determines if the search tool window starts in a maximized state."
+msgstr "Esta clave determina si ventana de la herramienta de búsqueda se inicia en estado maximizado."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:20
+msgid "Look in Folder"
+msgstr "Buscar en carpeta"
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:21
+msgid "This key defines the default value of the \"Look in Folder\" widget."
+msgstr "Esta clave define el valor predeterminado del widget «Buscar en carpeta»."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:22
+msgid ""
+"This key determines if the \"Contains the text\" search option is selected "
+"when the search tool is started."
+msgstr "Esta clave determina si la opción «Contiene el texto» está seleccionada cuando se inicia la herramienta de búsqueda."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:23
+msgid ""
+"This key determines if the \"Date modified less than\" search option is "
+"selected when the search tool is started."
+msgstr "Esta clave determina si la opción «Fecha de modificación anterior a» está seleccionada cuando se inicia la herramienta de búsqueda."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:24
+msgid ""
+"This key determines if the \"Date modified more than\" search option is "
+"selected when the search tool is started."
+msgstr "Esta clave determina si la opción «Fecha de modificación posterior a» está seleccionada cuando se inicia la herramienta de búsqueda."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:25
+msgid ""
+"This key determines if the \"Size at least\" search option is selected when "
+"the search tool is started."
+msgstr "Esta clave determina si la opción «Tamaño de al menos» está seleccionada cuando se inicia la herramienta de búsqueda."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:26
+msgid ""
+"This key determines if the \"Size at most\" search option is selected when "
+"the search tool is started."
+msgstr "Esta clave determina si la opción «Tamaño como mucho de» está seleccionada cuando se inicia la herramienta de búsqueda."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:27
+msgid ""
+"This key determines if the \"File is empty\" search option is selected when "
+"the search tool is started."
+msgstr "Esta clave determina si la opción «Archivo vacío» está seleccionada cuando se inicia la herramienta de búsqueda."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:28
+msgid ""
+"This key determines if the \"Owned by user\" search option is selected when "
+"the search tool is started."
+msgstr "Esta clave determina si la opción «Perteneciente al usuario» está seleccionada cuando se inicia la herramienta de búsqueda."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:29
+msgid ""
+"This key determines if the \"Owned by group\" search option is selected when"
+" the search tool is started."
+msgstr "Esta clave determina si la opción «Perteneciente al grupo» está seleccionada cuando se inicia la herramienta de búsqueda."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:30
+msgid ""
+"This key determines if the \"Owner is unrecognized\" search option is "
+"selected when the search tool is started."
+msgstr "Esta clave determina si la opción «Propietario no reconocido» está seleccionada cuando se inicia la herramienta de búsqueda."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:31
+msgid ""
+"This key determines if the \"Name does not contain\" search option is "
+"selected when the search tool is started."
+msgstr "Esta clave determina si la opción «El nombre no contiene» está seleccionada cuando se inicia la herramienta de búsqueda."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:32
+msgid ""
+"This key determines if the \"Name matches regular expression\" search option"
+" is selected when the search tool is started."
+msgstr "Esta clave determina si la opción «El nombre coincide con la expresión regular» está seleccionada cuando se inicia la herramienta de búsqueda."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:33
+msgid ""
+"This key determines if the \"Show hidden files and folders\" search option "
+"is selected when the search tool is started."
+msgstr "Esta clave determina si la opción «Mostrar archivos y carpetas ocultos» está seleccionada cuando se inicia la herramienta de búsqueda."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:34
+msgid ""
+"This key determines if the \"Follow symbolic links\" search option is "
+"selected when the search tool is started."
+msgstr "Esta clave determina si la opción «Seguir enlaces simbólicos» está seleccionada cuando se inicia la herramienta de búsqueda."
+
+#: ../gsearchtool/data/org.gde2.search-tool.gschema.xml.in.h:35
+msgid ""
+"This key determines if the \"Exclude other filesystems\" search option is "
+"selected when the search tool is started."
+msgstr "Esta clave determina si la opción «Excluir otros sistemas de archivos» está seleccionada cuando se inicia la herramienta de búsqueda."
+
+#: ../gsearchtool/libeggsmclient/eggdesktopfile.c:165
+#, c-format
+msgid "File is not a valid .desktop file"
+msgstr "El archivo no es un archivo .desktop válido"
+
+#: ../gsearchtool/libeggsmclient/eggdesktopfile.c:188
+#, c-format
+msgid "Unrecognized desktop file Version '%s'"
+msgstr "La versión «%s» del archivo desktop no se reconoce"
+
+#: ../gsearchtool/libeggsmclient/eggdesktopfile.c:957
+#, c-format
+msgid "Starting %s"
+msgstr "Iniciando %s"
+
+#: ../gsearchtool/libeggsmclient/eggdesktopfile.c:1098
+#, c-format
+msgid "Application does not accept documents on command line"
+msgstr "La aplicación no acepta documentos en la consola"
+
+#: ../gsearchtool/libeggsmclient/eggdesktopfile.c:1166
+#, c-format
+msgid "Unrecognized launch option: %d"
+msgstr "Opción de lanzamiento no reconocida: %d"
+
+#: ../gsearchtool/libeggsmclient/eggdesktopfile.c:1365
+#, c-format
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr "No se pueden pasar los URI de documentos a entradas de escritorio «Type=Link»"
+
+#: ../gsearchtool/libeggsmclient/eggdesktopfile.c:1384
+#, c-format
+msgid "Not a launchable item"
+msgstr "No es un elemento lanzable"
+
+#: ../gsearchtool/libeggsmclient/eggsmclient.c:225
+msgid "Disable connection to session manager"
+msgstr "Desactivar la conexión al administrador de sesiones"
+
+#: ../gsearchtool/libeggsmclient/eggsmclient.c:228
+msgid "Specify file containing saved configuration"
+msgstr "Especificar el archivo que contiene la configuración guardada"
+
+#: ../gsearchtool/libeggsmclient/eggsmclient.c:228
+msgid "FILE"
+msgstr "ARCHIVO"
+
+#: ../gsearchtool/libeggsmclient/eggsmclient.c:231
+msgid "Specify session management ID"
+msgstr "Especificar un ID de gestión de sesión"
+
+#: ../gsearchtool/libeggsmclient/eggsmclient.c:231
+msgid "ID"
+msgstr "Id"
+
+#: ../gsearchtool/libeggsmclient/eggsmclient.c:252
+msgid "Session management options:"
+msgstr "Opciones de gestión de la sesión:"
+
+#: ../gsearchtool/libeggsmclient/eggsmclient.c:253
+msgid "Show session management options"
+msgstr "Mostrar opciones de gestión de sesión"
+
+#: ../gsearchtool/src/gsearchtool.c:82
+msgid "Contains the _text"
+msgstr "Contiene el _texto"
+
+#: ../gsearchtool/src/gsearchtool.c:84
+msgid "_Date modified less than"
+msgstr "Fecha de mo_dificación anterior a"
+
+#: ../gsearchtool/src/gsearchtool.c:84 ../gsearchtool/src/gsearchtool.c:85
+msgid "days"
+msgstr "días"
+
+#: ../gsearchtool/src/gsearchtool.c:85
+msgid "Date modified more than"
+msgstr "Fecha de modificación posterior a"
+
+#: ../gsearchtool/src/gsearchtool.c:87
+msgid "S_ize at least"
+msgstr "_Tamaño de al menos"
+
+#: ../gsearchtool/src/gsearchtool.c:87 ../gsearchtool/src/gsearchtool.c:88
+msgid "kilobytes"
+msgstr "kilobytes"
+
+#: ../gsearchtool/src/gsearchtool.c:88
+msgid "Si_ze at most"
+msgstr "Ta_maño de como mucho"
+
+#: ../gsearchtool/src/gsearchtool.c:89
+msgid "File is empty"
+msgstr "El archivo está vacío"
+
+#: ../gsearchtool/src/gsearchtool.c:91
+msgid "Owned by _user"
+msgstr "Pertenece al _usuario"
+
+#: ../gsearchtool/src/gsearchtool.c:92
+msgid "Owned by _group"
+msgstr "Pertenece al _grupo"
+
+#: ../gsearchtool/src/gsearchtool.c:93
+msgid "Owner is unrecognized"
+msgstr "El propietario es desconocido"
+
+#: ../gsearchtool/src/gsearchtool.c:95
+msgid "Na_me does not contain"
+msgstr "El no_mbre no contiene"
+
+#: ../gsearchtool/src/gsearchtool.c:96
+msgid "Name matches regular e_xpression"
+msgstr "El nombre coincide con la e_xpresión regular"
+
+#: ../gsearchtool/src/gsearchtool.c:98
+msgid "Show hidden and backup files"
+msgstr "Mostrar los archivos ocultos y las copias de respaldo"
+
+#: ../gsearchtool/src/gsearchtool.c:99
+msgid "Follow symbolic links"
+msgstr "Seguir los enlaces simbólicos"
+
+#: ../gsearchtool/src/gsearchtool.c:100
+msgid "Exclude other filesystems"
+msgstr "Exlcuir otros sistemas de archivos"
+
+#: ../gsearchtool/src/gsearchtool.c:158
+msgid "Show version of the application"
+msgstr "Mostrar la versión de la aplicación"
+
+#: ../gsearchtool/src/gsearchtool.c:159 ../gsearchtool/src/gsearchtool.c:164
+#: ../gsearchtool/src/gsearchtool.c:173
+msgid "STRING"
+msgstr "CADENA"
+
+#: ../gsearchtool/src/gsearchtool.c:160
+msgid "PATH"
+msgstr "RUTA"
+
+#: ../gsearchtool/src/gsearchtool.c:161
+msgid "VALUE"
+msgstr "VALOR"
+
+#: ../gsearchtool/src/gsearchtool.c:165 ../gsearchtool/src/gsearchtool.c:166
+msgid "DAYS"
+msgstr "DÍAS"
+
+#: ../gsearchtool/src/gsearchtool.c:167 ../gsearchtool/src/gsearchtool.c:168
+msgid "KILOBYTES"
+msgstr "KILOBYTES"
+
+#: ../gsearchtool/src/gsearchtool.c:170
+msgid "USER"
+msgstr "USUARIO"
+
+#: ../gsearchtool/src/gsearchtool.c:171
+msgid "GROUP"
+msgstr "GRUPO"
+
+#: ../gsearchtool/src/gsearchtool.c:174
+msgid "PATTERN"
+msgstr "PATRÓN"
+
+#: ../gsearchtool/src/gsearchtool.c:385
+msgid "A locate database has probably not been created."
+msgstr "Probablemente no se ha creado una base de datos de búsqueda."
+
+#: ../gsearchtool/src/gsearchtool.c:487
+#, c-format
+msgid "Character set conversion failed for \"%s\""
+msgstr "La conversión del conjunto de caracteres falló para «%s»"
+
+#: ../gsearchtool/src/gsearchtool.c:511
+msgid "Searching..."
+msgstr "Buscando…"
+
+#: ../gsearchtool/src/gsearchtool.c:511 ../gsearchtool/src/gsearchtool.c:1031
+#: ../gsearchtool/src/gsearchtool.c:3074
+msgid "Search for Files"
+msgstr "Buscar archivos"
+
+#: ../gsearchtool/src/gsearchtool.c:977 ../gsearchtool/src/gsearchtool.c:1006
+msgid "No files found"
+msgstr "No se encontraron archivos"
+
+#: ../gsearchtool/src/gsearchtool.c:999
+msgid "(stopped)"
+msgstr "(detenido)"
+
+#: ../gsearchtool/src/gsearchtool.c:1005
+msgid "No Files Found"
+msgstr "No se encontraron archivos"
+
+#: ../gsearchtool/src/gsearchtool.c:1010
+#, c-format
+msgid "%'d File Found"
+msgid_plural "%'d Files Found"
+msgstr[0] "%'d archivo encontrado"
+msgstr[1] "%'d archivos encontrados"
+
+#: ../gsearchtool/src/gsearchtool.c:1014 ../gsearchtool/src/gsearchtool.c:1052
+#, c-format
+msgid "%'d file found"
+msgid_plural "%'d files found"
+msgstr[0] "%'d archivo encontrado"
+msgstr[1] "%'d archivos encontrados"
+
+#: ../gsearchtool/src/gsearchtool.c:1143
+msgid "Entry changed called for a non entry option!"
+msgstr "Ha pedido un cambio de entrada para una opción que no tiene entrada"
+
+#: ../gsearchtool/src/gsearchtool.c:1308
+msgid "Set the text of \"Name contains\" search option"
+msgstr "Establece el texto de la opción de búsqueda «El nombre contiene»"
+
+#: ../gsearchtool/src/gsearchtool.c:1309
+msgid "Set the text of \"Look in folder\" search option"
+msgstr "Establece el texto de la opción de búsqueda «Buscar en la carpeta»"
+
+#: ../gsearchtool/src/gsearchtool.c:1310
+msgid "Sort files by one of the following: name, folder, size, type, or date"
+msgstr "Ordenar los archivos por: nombre, carpeta, tamaño, tipo o fecha"
+
+#: ../gsearchtool/src/gsearchtool.c:1311
+msgid "Set sort order to descending, the default is ascending"
+msgstr "Establecer el orden como descendente, el predeterminado es ascendente"
+
+#: ../gsearchtool/src/gsearchtool.c:1312
+msgid "Automatically start a search"
+msgstr "Iniciar una búsqueda automáticamente"
+
+#: ../gsearchtool/src/gsearchtool.c:1318
+#, c-format
+msgid "Select the \"%s\" search option"
+msgstr "Selecciona la opción de búsqueda «%s»"
+
+#: ../gsearchtool/src/gsearchtool.c:1321
+#, c-format
+msgid "Select and set the \"%s\" search option"
+msgstr "Selecciona y establece la opción de búsqueda «%s»"
+
+#: ../gsearchtool/src/gsearchtool.c:1428
+msgid "Invalid option passed to sortby command line argument."
+msgstr "Se ha pasado una opción no válida al argumento «sortby» de la consola."
+
+#: ../gsearchtool/src/gsearchtool.c:1720
+msgid ""
+"\n"
+"... Too many errors to display ..."
+msgstr "\n… Demasiados errores para ser mostrados …"
+
+#: ../gsearchtool/src/gsearchtool.c:1734
+msgid ""
+"The search results may be invalid.  There were errors while performing this "
+"search."
+msgstr "El resultado de la búsqueda puede ser inválido. Hubo errores al realizar la búsqueda."
+
+#: ../gsearchtool/src/gsearchtool.c:1750 ../gsearchtool/src/gsearchtool.c:1798
+msgid "Show more _details"
+msgstr "Mostrar más _detalles"
+
+#: ../gsearchtool/src/gsearchtool.c:1780
+msgid ""
+"The search results may be out of date or invalid.  Do you want to disable "
+"the quick search feature?"
+msgstr "Los resultados de la búsqueda pueden ser inválidos o no estar al día. ¿Quiere desactivar la búsqueda rápida?"
+
+#: ../gsearchtool/src/gsearchtool.c:1809
+msgid "Disable _Quick Search"
+msgstr "Desactivar la búsqueda _rápida"
+
+#: ../gsearchtool/src/gsearchtool.c:1836
+#, c-format
+msgid "Failed to set process group id of child %d: %s.\n"
+msgstr "Falló al establecer el id del grupo de proceso del hijo %d: %s.\n"
+
+#: ../gsearchtool/src/gsearchtool.c:1861
+msgid "Error parsing the search command."
+msgstr "Ocurrió un error al interpretar la orden de búsqueda."
+
+#: ../gsearchtool/src/gsearchtool.c:1893
+msgid "Error running the search command."
+msgstr "Ocurrió un error al ejecutar la orden de búsqueda."
+
+#: ../gsearchtool/src/gsearchtool.c:2020
+#, c-format
+msgid "Enter a text value for the \"%s\" search option."
+msgstr "Introduzca un valor de texto para la opción de búsqueda «%s»."
+
+#. Translators:  Below is a string displaying the search options name
+#. and unit value.  For example, "\"Date modified less than\" in days".
+#: ../gsearchtool/src/gsearchtool.c:2025
+#, c-format
+msgid "\"%s\" in %s"
+msgstr "«%s» en %s"
+
+#: ../gsearchtool/src/gsearchtool.c:2027
+#, c-format
+msgid "Enter a value in %s for the \"%s\" search option."
+msgstr "Introduzca un valor en %s para la opción de búsqueda «%s»."
+
+#: ../gsearchtool/src/gsearchtool.c:2089
+#, c-format
+msgid "Remove \"%s\""
+msgstr "Quitar «%s»"
+
+#: ../gsearchtool/src/gsearchtool.c:2090
+#, c-format
+msgid "Click to remove the \"%s\" search option."
+msgstr "Pulse para quitar la opción de búsqueda «%s»."
+
+#: ../gsearchtool/src/gsearchtool.c:2188
+msgid "A_vailable options:"
+msgstr "Opciones _disponibles:"
+
+#: ../gsearchtool/src/gsearchtool.c:2217
+msgid "Available options"
+msgstr "Opciones disponibles"
+
+#: ../gsearchtool/src/gsearchtool.c:2218
+msgid "Select a search option from the drop-down list."
+msgstr "Seleccione una opción de búsqueda de la lista desplegable."
+
+#: ../gsearchtool/src/gsearchtool.c:2230
+msgid "Add search option"
+msgstr "Añadir una opción de búsqueda"
+
+#: ../gsearchtool/src/gsearchtool.c:2231
+msgid "Click to add the selected available search option."
+msgstr "Pulse para añadir la opción de búsqueda seleccionada."
+
+#: ../gsearchtool/src/gsearchtool.c:2325
+msgid "S_earch results:"
+msgstr "_Resultados de la búsqueda:"
+
+#: ../gsearchtool/src/gsearchtool.c:2371
+msgid "List View"
+msgstr "Vista como lista"
+
+#: ../gsearchtool/src/gsearchtool.c:2431
+#: ../gde2-dictionary/libgdict/gdict-source.c:246
+msgid "Name"
+msgstr "Nombre"
+
+#: ../gsearchtool/src/gsearchtool.c:2480
+msgid "Type"
+msgstr "Tipo"
+
+#: ../gsearchtool/src/gsearchtool.c:2492
+msgid "Date Modified"
+msgstr "Fecha de modificación"
+
+#: ../gsearchtool/src/gsearchtool.c:2835
+msgid "_Name contains:"
+msgstr "El _nombre contiene:"
+
+#: ../gsearchtool/src/gsearchtool.c:2849 ../gsearchtool/src/gsearchtool.c:2850
+msgid "Enter a filename or partial filename with or without wildcards."
+msgstr "Introduzca un nombre de archivo o un nombre parcial con o sin comodines."
+
+#: ../gsearchtool/src/gsearchtool.c:2850
+msgid "Name contains"
+msgstr "El nombre contiene"
+
+#: ../gsearchtool/src/gsearchtool.c:2856
+msgid "_Look in folder:"
+msgstr "_Buscar en la carpeta:"
+
+#: ../gsearchtool/src/gsearchtool.c:2862
+msgid "Browse"
+msgstr "Examinar"
+
+#: ../gsearchtool/src/gsearchtool.c:2871
+msgid "Look in folder"
+msgstr "Buscar en la carpeta"
+
+#: ../gsearchtool/src/gsearchtool.c:2871
+msgid "Select the folder or device from which you want to begin the search."
+msgstr "Seleccione la carpeta o dispositivo desde donde quiere iniciar la búsqueda."
+
+#: ../gsearchtool/src/gsearchtool.c:2889
+msgid "Select more _options"
+msgstr "Seleccionar más _opciones"
+
+#: ../gsearchtool/src/gsearchtool.c:2898
+msgid "Select more options"
+msgstr "Selecciona más opciones"
+
+#: ../gsearchtool/src/gsearchtool.c:2898
+msgid "Click to expand or collapse the list of available options."
+msgstr "Pulse para expandir o contraer la lista de opciones disponibles."
+
+#: ../gsearchtool/src/gsearchtool.c:2930
+msgid "Click to display the help manual."
+msgstr "Pulse para mostrar el manual de ayuda."
+
+#: ../gsearchtool/src/gsearchtool.c:2938
+msgid "Click to close \"Search for Files\"."
+msgstr "Pulse para cerrar «Buscar archivos»."
+
+#: ../gsearchtool/src/gsearchtool.c:2964
+msgid "Click to perform a search."
+msgstr "Pulse para realizar una búsqueda."
+
+#: ../gsearchtool/src/gsearchtool.c:2965
+msgid "Click to stop a search."
+msgstr "Pulse para detener una búsqueda."
+
+#: ../gsearchtool/src/gsearchtool.c:3059
+msgid "- the GDE2 Search Tool"
+msgstr " - la herramienta de búsqueda de GDE2"
+
+#: ../gsearchtool/src/gsearchtool.c:3068
+#, c-format
+msgid "Failed to parse command line arguments: %s\n"
+msgstr "Falló al analizar los argumentos de la línea de órdenes: %s\n"
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:198
+msgid "Could not open help document."
+msgstr "No se ha podido abrir el documento de ayuda."
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:349
+#, c-format
+msgid "Are you sure you want to open %d document?"
+msgid_plural "Are you sure you want to open %d documents?"
+msgstr[0] "¿Seguro que quiere abrir %d documento?"
+msgstr[1] "¿Seguro que quiere abrir %d documentos?"
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:354
+#: ../gsearchtool/src/gsearchtool-callbacks.c:551
+#, c-format
+msgid "This will open %d separate window."
+msgid_plural "This will open %d separate windows."
+msgstr[0] "Esto abrirá %d ventana por separado."
+msgstr[1] "Esto abrirá %d ventanas por separado."
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:394
+#, c-format
+msgid "Could not open document \"%s\"."
+msgstr "No se ha podido abrir el documento «%s»."
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:423
+#, c-format
+msgid "Could not open folder \"%s\"."
+msgstr "No se ha podido abrir la carpeta «%s»."
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:431
+msgid "The caja file manager is not running."
+msgstr "El administrador de archivos Caja no está ejecutándose."
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:523
+msgid "There is no installed viewer capable of displaying the document."
+msgstr "No hay instalado ningún visor capaz de mostrar el documento."
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:546
+#, c-format
+msgid "Are you sure you want to open %d folder?"
+msgid_plural "Are you sure you want to open %d folders?"
+msgstr[0] "¿Seguro que quiere abrir %d carpeta?"
+msgstr[1] "¿Seguro que quiere abrir %d carpetas?"
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:699
+#, c-format
+msgid "Could not move \"%s\" to trash."
+msgstr "No se ha podido mover «%s» a la papelera."
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:730
+#, c-format
+msgid "Do you want to delete \"%s\" permanently?"
+msgstr "¿Quiere borrar «%s» permanentemente?"
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:733
+#, c-format
+msgid "Trash is unavailable.  Could not move \"%s\" to the trash."
+msgstr "La papelera no está disponible. No se pudo mover «%s» a la papelera."
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:772
+#, c-format
+msgid "Could not delete \"%s\"."
+msgstr "No se ha podido borrar «%s»."
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:884
+#, c-format
+msgid "Deleting \"%s\" failed: %s."
+msgstr "Ha fallado el borrado de «%s»: %s."
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:896
+#, c-format
+msgid "Moving \"%s\" failed: %s."
+msgstr "Ha fallado el movimiento de «%s»: %s."
+
+#. Popup menu item: Open
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1024
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1054
+msgid "_Open"
+msgstr "_Abrir"
+
+#. Popup menu item: Open with (default)
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1079
+#, c-format
+msgid "_Open with %s"
+msgstr "Abrir co_n %s"
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1114
+#, c-format
+msgid "Open with %s"
+msgstr "Abrir con %s"
+
+#. Popup menu item: Open With
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1147
+msgid "Open Wit_h"
+msgstr "Abrir _con"
+
+#. Popup menu item: Open Containing Folder
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1192
+msgid "Open Containing _Folder"
+msgstr "Abrir la _carpeta contenedora"
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1232
+msgid "_Save Results As..."
+msgstr "_Guardar resultado como…"
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1614
+msgid "Save Search Results As..."
+msgstr "Guardar el resultado de la búsqueda como…"
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1643
+msgid "Could not save document."
+msgstr "No se ha podido guardar el documento."
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1644
+msgid "You did not select a document name."
+msgstr "No ha seleccionado un nombre de documento."
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1674
+#, c-format
+msgid "Could not save \"%s\" document to \"%s\"."
+msgstr "No se ha podido guardar el documento «%s» en %s."
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1707
+#, c-format
+msgid "The document \"%s\" already exists.  Would you like to replace it?"
+msgstr "El documento «%s» ya existe. ¿Quiere reemplazarlo?"
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1711
+msgid "If you replace an existing file, its contents will be overwritten."
+msgstr "Si reemplaza un archivo ya existente, su contenido será sobreescrito."
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1726
+#: ../gde2-screenshot/src/screenshot-xfer.c:82
+msgid "_Replace"
+msgstr "_Reemplazar"
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1775
+msgid "The document name you selected is a folder."
+msgstr "El nombre del documento que ha seleccionado es una carpeta."
+
+#: ../gsearchtool/src/gsearchtool-callbacks.c:1811
+msgid "You may not have write permissions to the document."
+msgstr "Puede que no tenga permiso de escritura en el documento."
+
+#. Translators:  Below are the strings displayed in the 'Date Modified'
+#. column of the list view.  The format of this string can vary depending
+#. on age of a file.  Please modify the format of the timestamp to match
+#. your locale.  For example, to display 24 hour time replace the '%-I'
+#. with '%-H' and remove the '%p'.  (See bugzilla report #120434.)
+#: ../gsearchtool/src/gsearchtool-support.c:448
+msgid "today at %-I:%M %p"
+msgstr "hoy a las %-I:%M %p"
+
+#: ../gsearchtool/src/gsearchtool-support.c:450
+msgid "yesterday at %-I:%M %p"
+msgstr "ayer a las %-I:%M %p"
+
+#: ../gsearchtool/src/gsearchtool-support.c:452
+#: ../gsearchtool/src/gsearchtool-support.c:454
+msgid "%A, %B %-d %Y at %-I:%M:%S %p"
+msgstr "%A, %-d de %B de %Y, a las %-I:%M:%S %p"
+
+#: ../gsearchtool/src/gsearchtool-support.c:641
+msgid "link (broken)"
+msgstr "enlace (roto)"
+
+#: ../gsearchtool/src/gsearchtool-support.c:645
+#, c-format
+msgid "link to %s"
+msgstr "enlace a %s"
+
+#. START OF CAJA/EEL FUNCTIONS: USED FOR HANDLING OF DUPLICATE FILENAMES
+#. Localizers:
+#. * Feel free to leave out the st, nd, rd and th suffix or
+#. * make some or all of them match.
+#. localizers: tag used to detect the first copy of a file
+#: ../gsearchtool/src/gsearchtool-support.c:1265
+msgid " (copy)"
+msgstr " (copia)"
+
+#. localizers: tag used to detect the second copy of a file
+#: ../gsearchtool/src/gsearchtool-support.c:1267
+msgid " (another copy)"
+msgstr " (otra copia)"
+
+#. localizers: tag used to detect the x11th copy of a file
+#. localizers: tag used to detect the x12th copy of a file
+#. localizers: tag used to detect the x13th copy of a file
+#. localizers: tag used to detect the xxth copy of a file
+#: ../gsearchtool/src/gsearchtool-support.c:1270
+#: ../gsearchtool/src/gsearchtool-support.c:1272
+#: ../gsearchtool/src/gsearchtool-support.c:1274
+#: ../gsearchtool/src/gsearchtool-support.c:1284
+msgid "th copy)"
+msgstr "ª copia)"
+
+#. localizers: tag used to detect the x1st copy of a file
+#: ../gsearchtool/src/gsearchtool-support.c:1277
+msgid "st copy)"
+msgstr "ª copia)"
+
+#. localizers: tag used to detect the x2nd copy of a file
+#: ../gsearchtool/src/gsearchtool-support.c:1279
+msgid "nd copy)"
+msgstr "ª copia)"
+
+#. localizers: tag used to detect the x3rd copy of a file
+#: ../gsearchtool/src/gsearchtool-support.c:1281
+msgid "rd copy)"
+msgstr "ª copia)"
+
+#. localizers: appended to first file copy
+#: ../gsearchtool/src/gsearchtool-support.c:1298
+#, c-format
+msgid "%s (copy)%s"
+msgstr "%s (copia)%s"
+
+#. localizers: appended to second file copy
+#: ../gsearchtool/src/gsearchtool-support.c:1300
+#, c-format
+msgid "%s (another copy)%s"
+msgstr "%s (otra copia)%s"
+
+#. localizers: appended to x11th file copy
+#. localizers: appended to x12th file copy
+#. localizers: appended to x13th file copy
+#. localizers: appended to xxth file copy
+#: ../gsearchtool/src/gsearchtool-support.c:1303
+#: ../gsearchtool/src/gsearchtool-support.c:1305
+#: ../gsearchtool/src/gsearchtool-support.c:1307
+#: ../gsearchtool/src/gsearchtool-support.c:1316
+#, c-format
+msgid "%s (%dth copy)%s"
+msgstr "%s (%dª copia)%s"
+
+#. localizers: appended to x1st file copy
+#: ../gsearchtool/src/gsearchtool-support.c:1310
+#, c-format
+msgid "%s (%dst copy)%s"
+msgstr "%s (%dª copia)%s"
+
+#. localizers: appended to x2nd file copy
+#: ../gsearchtool/src/gsearchtool-support.c:1312
+#, c-format
+msgid "%s (%dnd copy)%s"
+msgstr "%s (%dª copia)%s"
+
+#. localizers: appended to x3rd file copy
+#: ../gsearchtool/src/gsearchtool-support.c:1314
+#, c-format
+msgid "%s (%drd copy)%s"
+msgstr "%s (%dª copia)%s"
+
+#: ../gsearchtool/src/gsearchtool-support.c:1361
+msgid " (invalid Unicode)"
+msgstr " (Unicode inválido)"
+
+#. localizers: opening parentheses to match the "th copy)" string
+#: ../gsearchtool/src/gsearchtool-support.c:1450
+msgid " ("
+msgstr " ("
+
+#. localizers: opening parentheses of the "th copy)" string
+#: ../gsearchtool/src/gsearchtool-support.c:1458
+#, c-format
+msgid " (%d"
+msgstr " (%d"
+
+#: ../logview/data/gde2-system-log.desktop.in.in.h:1
+msgid "Log File Viewer"
+msgstr "Visor de archivos de sucesos"
+
+#: ../logview/data/gde2-system-log.desktop.in.in.h:2
+msgid "View or monitor system log files"
+msgstr "Vea o monitorice los archivos de sucesos del sistema"
+
+#: ../logview/data/org.gde2.system-log.gschema.xml.in.h:1
+msgid "Log file to open up on startup"
+msgstr "Archivo de sucesos que abrir al iniciar"
+
+#: ../logview/data/org.gde2.system-log.gschema.xml.in.h:2
+msgid ""
+"Specifies the log file displayed at startup. The default is either "
+"/var/adm/messages or /var/log/messages, depending on your operating system."
+msgstr "Especifica el archivo de sucesos mostrado al inicio. Los predeterminados son «/var/adm/messages» o «/var/log/messages», dependiendo de su sistema operativo."
+
+#: ../logview/data/org.gde2.system-log.gschema.xml.in.h:3
+msgid "Size of the font used to display the log"
+msgstr "Tamaño de la tipografía usada para mostrar el registro"
+
+#: ../logview/data/org.gde2.system-log.gschema.xml.in.h:4
+msgid ""
+"Specifies the size of the fixed-width font used to display the log in the "
+"main tree view. The default is taken from the default terminal font size."
+msgstr "Especifica el tamaño de la tipografía de anchura fija usada para mostrar el registro de sucesos en la vista del árbol principal. Lo predeterminado es tomar el tamaño de la tipografía predeterminado del terminal."
+
+#: ../logview/data/org.gde2.system-log.gschema.xml.in.h:5
+msgid "Height of the main window in pixels"
+msgstr "Altura de la ventana principal en píxeles"
+
+#: ../logview/data/org.gde2.system-log.gschema.xml.in.h:6
+msgid "Specifies the height of the log viewer main window in pixels."
+msgstr "Especifica la altura en píxeles de la ventana principal del visor de sucesos."
+
+#: ../logview/data/org.gde2.system-log.gschema.xml.in.h:7
+msgid "Width of the main window in pixels"
+msgstr "Anchura de la ventana principal en píxeles"
+
+#: ../logview/data/org.gde2.system-log.gschema.xml.in.h:8
+msgid "Specifies the width of the log viewer main window in pixels."
+msgstr "Especifica la anchura de la ventana principal del visor de sucesos en píxeles."
+
+#: ../logview/data/org.gde2.system-log.gschema.xml.in.h:9
+msgid "Log files to open up on startup"
+msgstr "Archivos de sucesos que abrir al iniciar"
+
+#: ../logview/data/org.gde2.system-log.gschema.xml.in.h:10
+msgid ""
+"Specifies a list of log files to open up at startup. A default list is "
+"created by reading /etc/syslog.conf."
+msgstr "Especifica una lista de registros de sucesos que abrir al inicio. Se crea una lista predeterminada leyendo /etc/syslog.conf."
+
+#: ../logview/data/org.gde2.system-log.gschema.xml.in.h:11
+msgid "List of saved filters"
+msgstr "Lista de filtros guardados"
+
+#: ../logview/data/org.gde2.system-log.gschema.xml.in.h:12
+msgid "List of saved regexp filters"
+msgstr "Lista de filtros de expresión regular guardados"
+
+#: ../logview/data/logview-filter.ui.h:1
+#: ../gde2-screenshot/data/gde2-screenshot.ui.h:3
+#: ../gde2-screenshot/data/gde2-screenshot-gtk3.ui.h:3
+msgid "_Name:"
+msgstr "_Nombre:"
+
+#: ../logview/data/logview-filter.ui.h:2
+msgid "_Regular Expression:"
+msgstr "Expresión _regular:"
+
+#: ../logview/data/logview-filter.ui.h:3
+msgid "Highlight"
+msgstr "Resaltar"
+
+#: ../logview/data/logview-filter.ui.h:4
+msgid "Hide"
+msgstr "Ocultar"
+
+#: ../logview/data/logview-filter.ui.h:5
+msgid "Foreground:"
+msgstr "Primer plano:"
+
+#: ../logview/data/logview-filter.ui.h:6
+msgid "Background:"
+msgstr "Fondo:"
+
+#: ../logview/data/logview-filter.ui.h:7
+msgid "Effect:"
+msgstr "Efecto:"
+
+#: ../logview/src/logview-app.c:377
+#, c-format
+msgid "Impossible to open the file %s"
+msgstr "No se pudo abrir el archivo %s"
+
+#: ../logview/src/logview-filter-manager.c:94
+msgid "Filter name is empty!"
+msgstr "El filtro de nombre está vacío"
+
+#: ../logview/src/logview-filter-manager.c:107
+msgid "Filter name may not contain the ':' character"
+msgstr "El filtro de nombre no puede contener el carácter «:»"
+
+#: ../logview/src/logview-filter-manager.c:130
+msgid "Regular expression is empty!"
+msgstr "La expresión regular está vacía"
+
+#: ../logview/src/logview-filter-manager.c:146
+#, c-format
+msgid "Regular expression is invalid: %s"
+msgstr "La expresión regular no es válida: %s"
+
+#: ../logview/src/logview-filter-manager.c:242
+msgid "Please specify either foreground or background color!"
+msgstr "Especifique el color de primer plano o de fondo"
+
+#: ../logview/src/logview-filter-manager.c:296
+msgid "Edit filter"
+msgstr "Editar filtro"
+
+#: ../logview/src/logview-filter-manager.c:296
+msgid "Add new filter"
+msgstr "Añadir filtro nuevo"
+
+#: ../logview/src/logview-filter-manager.c:508
+msgid "Filters"
+msgstr "Filtros"
+
+#: ../logview/src/logview-findbar.c:177
+msgid "_Find:"
+msgstr "_Buscar:"
+
+#: ../logview/src/logview-findbar.c:192
+msgid "Find Previous"
+msgstr "Buscar anterior"
+
+#: ../logview/src/logview-findbar.c:195
+msgid "Find previous occurrence of the search string"
+msgstr "Buscar la coincidencia anterior de la cadena buscada"
+
+#: ../logview/src/logview-findbar.c:200
+msgid "Find Next"
+msgstr "Buscar siguiente"
+
+#: ../logview/src/logview-findbar.c:203
+msgid "Find next occurrence of the search string"
+msgstr "Encontrar Buscar la siguiente aparición de la cadena buscada"
+
+#: ../logview/src/logview-findbar.c:210
+msgid "Clear the search string"
+msgstr "Limpiar la cadena de búsqueda"
+
+#: ../logview/src/logview-log.c:598
+msgid "Error while uncompressing the GZipped log. The file might be corrupt."
+msgstr "Error al descomprimir el archivo comprimido con GZip. Seguramente el archivo esté corrupto."
+
+#: ../logview/src/logview-log.c:645
+msgid "You don't have enough permissions to read the file."
+msgstr "No tiene suficientes permisos para leer el archivo."
+
+#: ../logview/src/logview-log.c:660
+msgid "The file is not a regular file or is not a text file."
+msgstr "El archivo no es un archivo regular o no es un archivo de texto."
+
+#: ../logview/src/logview-log.c:742
+msgid "This version of System Log does not support GZipped logs."
+msgstr "Esta versión del Registro de sucesos no soporta archivos comprimidos con GZip."
+
+#: ../logview/src/logview-loglist.c:316
+msgid "Loading..."
+msgstr "Cargando…"
+
+#: ../logview/src/logview-main.c:61
+msgid "Show the application's version"
+msgstr "Mostrar la versión de la aplicación"
+
+#: ../logview/src/logview-main.c:63
+msgid "[LOGFILE...]"
+msgstr "[ARCHIVO DE SUCESOS…]"
+
+#: ../logview/src/logview-main.c:67
+msgid " - Browse and monitor logs"
+msgstr " - Vea y monitorice los sucesos"
+
+#: ../logview/src/logview-main.c:100
+msgid "Log Viewer"
+msgstr "Visor de sucesos"
+
+#: ../logview/src/logview-window.c:38 ../logview/src/logview-window.c:762
+msgid "System Log Viewer"
+msgstr "Visor de sucesos del sistema"
+
+#: ../logview/src/logview-window.c:212
+#, c-format
+msgid "last update: %s"
+msgstr "última actualización: %s"
+
+#: ../logview/src/logview-window.c:216
+#, c-format
+msgid "%d lines (%s) - %s"
+msgstr "%d líneas (%s) - %s"
+
+#: ../logview/src/logview-window.c:320
+msgid "Open Log"
+msgstr "Abre el registro"
+
+#: ../logview/src/logview-window.c:359
+#, c-format
+msgid "There was an error displaying help: %s"
+msgstr "Hubo un error al mostrar la ayuda: %s"
+
+#: ../logview/src/logview-window.c:473
+msgid "Wrapped"
+msgstr "Ajustado"
+
+#: ../logview/src/logview-window.c:488
+#: ../gde2-dictionary/libgdict/gdict-defbox.c:1144
+#: ../gde2-dictionary/libgdict/gdict-defbox.c:1238
+#: ../gde2-dictionary/libgdict/gdict-defbox.c:1272
+msgid "Not found"
+msgstr "No encontrado"
+
+#: ../logview/src/logview-window.c:767
+msgid "A system log viewer for GDE2."
+msgstr "Un visor de sucesos del sistema para GDE2."
+
+#: ../logview/src/logview-window.c:810
+#: ../gde2-dictionary/src/gdict-window.c:1297
+msgid "_File"
+msgstr "_Archivo"
+
+#: ../logview/src/logview-window.c:813
+msgid "_Filters"
+msgstr "_Filtros"
+
+#: ../logview/src/logview-window.c:816
+msgid "_Open..."
+msgstr "_Abrir…"
+
+#: ../logview/src/logview-window.c:816
+msgid "Open a log from file"
+msgstr "Abrir un registro de sucesos desde el archivo"
+
+#: ../logview/src/logview-window.c:818
+msgid "_Close"
+msgstr "_Cerrar"
+
+#: ../logview/src/logview-window.c:818
+msgid "Close this log"
+msgstr "Cerrar este registro de sucesos"
+
+#: ../logview/src/logview-window.c:820
+msgid "_Quit"
+msgstr "_Salir"
+
+#: ../logview/src/logview-window.c:820
+msgid "Quit the log viewer"
+msgstr "Salir del visor de sucesos"
+
+#: ../logview/src/logview-window.c:823
+msgid "_Copy"
+msgstr "_Copiar"
+
+#: ../logview/src/logview-window.c:823
+msgid "Copy the selection"
+msgstr "Copia la selección"
+
+#: ../logview/src/logview-window.c:825
+#: ../gde2-dictionary/src/gdict-window.c:1318
+msgid "Select _All"
+msgstr "Seleccionar _todo"
+
+#: ../logview/src/logview-window.c:825
+msgid "Select the entire log"
+msgstr "Seleccionar el archivo de sucesos completo"
+
+#: ../logview/src/logview-window.c:827
+msgid "_Find..."
+msgstr "_Buscar…"
+
+#: ../logview/src/logview-window.c:827
+msgid "Find a word or phrase in the log"
+msgstr "Buscar una palabra o frase en el registro"
+
+#: ../logview/src/logview-window.c:830
+msgid "Bigger text size"
+msgstr "Tamaño de texto mayor"
+
+#: ../logview/src/logview-window.c:832
+msgid "Smaller text size"
+msgstr "Tamaño de texto menor"
+
+#: ../logview/src/logview-window.c:834
+msgid "Normal text size"
+msgstr "Tamaño de texto normal"
+
+#: ../logview/src/logview-window.c:837
+msgid "Manage Filters"
+msgstr "Gestionar filtros"
+
+#: ../logview/src/logview-window.c:837
+msgid "Manage filters"
+msgstr "Gestionar filtros"
+
+#: ../logview/src/logview-window.c:840
+msgid "Open the help contents for the log viewer"
+msgstr "Abrir el contenido de la ayuda para el visor de sucesos"
+
+#: ../logview/src/logview-window.c:842
+#: ../gde2-dictionary/src/gdict-applet.c:1207
+#: ../gde2-dictionary/src/gdict-window.c:1353
+msgid "_About"
+msgstr "Acerca _de"
+
+#: ../logview/src/logview-window.c:842
+msgid "Show the about dialog for the log viewer"
+msgstr "Mostrar el diálogo «Acerca de» para el visor de sucesos"
+
+#: ../logview/src/logview-window.c:847
+msgid "_Statusbar"
+msgstr "Barra de _estado"
+
+#: ../logview/src/logview-window.c:847
+msgid "Show Status Bar"
+msgstr "Mostrar la barra de estado"
+
+#: ../logview/src/logview-window.c:849
+msgid "Side _Pane"
+msgstr "Panel _lateral"
+
+#: ../logview/src/logview-window.c:849
+msgid "Show Side Pane"
+msgstr "Mostrar el panel lateral"
+
+#: ../logview/src/logview-window.c:851
+msgid "Show matches only"
+msgstr "Sólo mostrar coincidencias"
+
+#: ../logview/src/logview-window.c:851
+msgid "Only show lines that match one of the given filters"
+msgstr "Mostrar sólo las líneas que coinciden con uno de los filtros proporcionados"
+
+#: ../logview/src/logview-window.c:983
+#, c-format
+msgid "Can't read from \"%s\""
+msgstr "No se puede leer de «%s»"
+
+#: ../logview/src/logview-window.c:1452
+msgid "Version: "
+msgstr "Versión: "
+
+#: ../logview/src/logview-window.c:1563
+msgid "Could not open the following files:"
+msgstr "No se pudieron abrir los siguientes archivos:"
+
+#: ../gde2-dictionary/data/default.desktop.in.h:1
+msgid "Default Dictionary Server"
+msgstr "Servidor de diccionario predeterminado"
+
+#: ../gde2-dictionary/data/gde2-dictionary.desktop.in.in.h:1
+msgid "GDE2 Dictionary"
+msgstr "Diccionario de GDE2"
+
+#: ../gde2-dictionary/data/gde2-dictionary.desktop.in.in.h:2
+msgid "Check word definitions and spellings in an online dictionary"
+msgstr "Busque definiciones de palabras y ortografía en un diccionario en línea"
+
+#: ../gde2-dictionary/data/gde2-dictionary.appdata.xml.in.h:1
+msgid "A dictionary for GDE2 Desktop"
+msgstr "Un diccionario para el escritorio GDE2"
+
+#: ../gde2-dictionary/data/gde2-dictionary.appdata.xml.in.h:2
+msgid ""
+"<p> GDE2 Dictionary allows you to look up words in on-line dictionaries. It "
+"comes preconfigured with a list of Dict servers (RFC 2229), to which you can"
+" add your own sources, while you can select specific servers for a specific "
+"query. </p>"
+msgstr "<p> GDE2 Dictionary le permite buscar palabras en diccionarios en línea. Viene preconfigurado con una lista de servidores DICT (RFC 2229), a la cual puede agregar sus propias fuentes, mientras que puede seleccionar servidores específicos para una consulta específica. </p>"
+
+#: ../gde2-dictionary/data/org.gde2.DictionaryApplet.gde2-panel-applet.in.in.h:1
+msgid "Dictionary Applet Factory"
+msgstr "Fábrica de la miniaplicación de diccionario"
+
+#: ../gde2-dictionary/data/org.gde2.DictionaryApplet.gde2-panel-applet.in.in.h:2
+msgid "Factory for the dictionary applet"
+msgstr "Fábrica para la miniaplicación de diccionario"
+
+#: ../gde2-dictionary/data/org.gde2.DictionaryApplet.gde2-panel-applet.in.in.h:3
+msgid "Dictionary Look up"
+msgstr "Búsqueda en diccionario"
+
+#: ../gde2-dictionary/data/org.gde2.DictionaryApplet.gde2-panel-applet.in.in.h:4
+msgid "Look up words in a dictionary"
+msgstr "Buscar palabras en un diccionario"
+
+#: ../gde2-dictionary/data/org.gde2.dictionary.gschema.xml.in.h:1
+msgid "The default database to use"
+msgstr "La base de datos predeterminada"
+
+#: ../gde2-dictionary/data/org.gde2.dictionary.gschema.xml.in.h:2
+msgid ""
+"The name of the default individual database or meta-database to use on a "
+"dictionary source. An exclamation mark (\"!\") means that all the databases "
+"present in a dictionary source should be searched"
+msgstr "El nombre de la base de datos individual predeterminada o la meta-base de datos para utilizar en una fuente de diccionario. («!») especifica debería buscar en todas las bases de datos en un servidor dado"
+
+#: ../gde2-dictionary/data/org.gde2.dictionary.gschema.xml.in.h:3
+msgid "The default search strategy to use"
+msgstr "La estrategia de búsqueda a utilizar"
+
+#: ../gde2-dictionary/data/org.gde2.dictionary.gschema.xml.in.h:4
+msgid ""
+"The name of the default search strategy to use on a dictionary source, if "
+"available. The default strategy is 'exact', that is match exact words."
+msgstr "El nombre de la estrategia de búsqueda predeterminada para usar en una fuente de diccionarios, si está disponible. La estrategia predeterminada es «exact», que coincide con palabras exactamente."
+
+#: ../gde2-dictionary/data/org.gde2.dictionary.gschema.xml.in.h:5
+msgid "The font to be used when printing"
+msgstr "La tipografía para usar en la impresión"
+
+#: ../gde2-dictionary/data/org.gde2.dictionary.gschema.xml.in.h:6
+msgid "The font to be used when printing a definition."
+msgstr "La tipografía para usar en la impresión de una definición."
+
+#: ../gde2-dictionary/data/org.gde2.dictionary.gschema.xml.in.h:7
+msgid "The name of the dictionary source used"
+msgstr "El nombre de la fuente de diccionarios a usar"
+
+#: ../gde2-dictionary/data/org.gde2.dictionary.gschema.xml.in.h:8
+msgid ""
+"The name of the dictionary source used to retrieve the definitions of words."
+msgstr "El nombre de la fuente de diccionarios usada para obtener las definiciones de las palabras."
+
+#: ../gde2-dictionary/data/thai.desktop.in.h:1
+msgid "Longdo Thai-English Dictionaries"
+msgstr "Diccionario Longdo Tailandés-Inglés"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:283
+msgid "Client Name"
+msgstr "Nombre del cliente"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:284
+msgid "The name of the client of the context object"
+msgstr "El nombre del cliente del objeto de contexto"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:297
+msgid "Hostname"
+msgstr "Nombre del servidor"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:298
+msgid "The hostname of the dictionary server to connect to"
+msgstr "El nombre del host del servidor de diccionario al que conectarse"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:311
+msgid "Port"
+msgstr "Puerto"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:312
+msgid "The port of the dictionary server to connect to"
+msgstr "el puerto del servidor de diccionarios al que conectarse"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:327
+msgid "Status"
+msgstr "Estado"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:328
+msgid "The status code as returned by the dictionary server"
+msgstr "El código de estado tal como lo devuelve el servidor de diccionarios"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:777
+#, c-format
+msgid "No connection to the dictionary server at '%s:%d'"
+msgstr "Sin conexión al servidor de diccionarios en «%s:%d»"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1060
+#, c-format
+msgid "Lookup failed for hostname '%s': no suitable resources found"
+msgstr "Falló la búsqueda del nombre de host «%s»: no se encontraron recursos apropiados"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1091
+#, c-format
+msgid "Lookup failed for host '%s': %s"
+msgstr "Falló la búsqueda del host «%s»: %s"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1125
+#, c-format
+msgid "Lookup failed for host '%s': host not found"
+msgstr "Falló la búsqueda del host «%s»: host no encontrado"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1177
+#, c-format
+msgid ""
+"Unable to connect to the dictionary server at '%s:%d'. The server replied "
+"with code %d (server down)"
+msgstr "Imposible conectar al servidor de diccionarios en «%s:%d». El servidor respondió con el código %d (servidor caído)"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1196
+#, c-format
+msgid ""
+"Unable to parse the dictionary server reply\n"
+": '%s'"
+msgstr "Imposible analizar la respuesta del servidor de diccionarios\n: «%s»"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1225
+#, c-format
+msgid "No definitions found for '%s'"
+msgstr "No se encontraron definiciones para «%s»"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1240
+#, c-format
+msgid "Invalid database '%s'"
+msgstr "Base de datos inválida «%s»"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1255
+#, c-format
+msgid "Invalid strategy '%s'"
+msgstr "Estrategia inválida «%s»"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1270
+#, c-format
+msgid "Bad command '%s'"
+msgstr "La orden «%s» es incorrecta"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1285
+#, c-format
+msgid "Bad parameters for command '%s'"
+msgstr "Parámetros incorrectos para la orden «%s»"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1300
+#, c-format
+msgid "No databases found on dictionary server at '%s'"
+msgstr "No se encontró ninguna base de datos en el servidor de diccionario en «%s»"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1315
+#, c-format
+msgid "No strategies found on dictionary server at '%s'"
+msgstr "No se encontraron estrategias en el servidor en «%s»"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1740
+#, c-format
+msgid "Connection failed to the dictionary server at %s:%d"
+msgstr "Ha fallado la conexión al servidor de diccionarios en %s:%d"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1779
+#, c-format
+msgid ""
+"Error while reading reply from server:\n"
+"%s"
+msgstr "Ocurrió un error al leer la respuesta del servidor:\n%s"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1852
+#, c-format
+msgid "Connection timeout for the dictionary server at '%s:%d'"
+msgstr "Tiempo agotado para la conexión al servidor de diccionarios en «%s:%d»"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1886
+#, c-format
+msgid "No hostname defined for the dictionary server"
+msgstr "No hay un nombre de equipo definido para el servidor de diccionarios"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1922
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1937
+#, c-format
+msgid "Unable to create socket"
+msgstr "Imposible crear socket"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1963
+#, c-format
+msgid "Unable to set the channel as non-blocking: %s"
+msgstr "Imposible establecer el canal como no bloqueante: %s"
+
+#: ../gde2-dictionary/libgdict/gdict-client-context.c:1978
+#, c-format
+msgid "Unable to connect to the dictionary server at '%s:%d'"
+msgstr "Imposible conectar con el servidor de diccionario en «%s:%d»"
+
+#: ../gde2-dictionary/libgdict/gdict-context.c:218
+msgid "Local Only"
+msgstr "Sólo local"
+
+#: ../gde2-dictionary/libgdict/gdict-context.c:219
+msgid "Whether the context uses only local dictionaries or not"
+msgstr "Indica si el contexto usa sólo los diccionarios locales o no"
+
+#: ../gde2-dictionary/libgdict/gdict-database-chooser.c:399
+msgid "Reload the list of available databases"
+msgstr "Recarga la lista de bases de datos disponibles"
+
+#: ../gde2-dictionary/libgdict/gdict-database-chooser.c:411
+msgid "Clear the list of available databases"
+msgstr "Limpia la lista de bases de datos disponibles"
+
+#: ../gde2-dictionary/libgdict/gdict-database-chooser.c:869
+#: ../gde2-dictionary/libgdict/gdict-speller.c:819
+#: ../gde2-dictionary/libgdict/gdict-strategy-chooser.c:831
+msgid "Error while matching"
+msgstr "Ocurrió un error al coincidir"
+
+#: ../gde2-dictionary/libgdict/gdict-defbox.c:1345
+msgid "F_ind:"
+msgstr "_Buscar:"
+
+#: ../gde2-dictionary/libgdict/gdict-defbox.c:1362
+msgid "_Previous"
+msgstr "_Anterior"
+
+#: ../gde2-dictionary/libgdict/gdict-defbox.c:1370
+msgid "_Next"
+msgstr "_Siguiente"
+
+#: ../gde2-dictionary/libgdict/gdict-defbox.c:2641
+msgid "Error while looking up definition"
+msgstr "Error al buscar la definición"
+
+#: ../gde2-dictionary/libgdict/gdict-defbox.c:2683
+#: ../gde2-dictionary/libgdict/gdict-speller.c:777
+msgid "Another search is in progress"
+msgstr "Ya se está haciendo otra búsqueda "
+
+#: ../gde2-dictionary/libgdict/gdict-defbox.c:2684
+#: ../gde2-dictionary/libgdict/gdict-speller.c:778
+msgid "Please wait until the current search ends."
+msgstr "Espere a que la búsqueda actual termine."
+
+#: ../gde2-dictionary/libgdict/gdict-defbox.c:2723
+msgid "Error while retrieving the definition"
+msgstr "Error al obtener la definición"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:232
+msgid "Filename"
+msgstr "Nombre de archivo"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:233
+msgid "The filename used by this dictionary source"
+msgstr "El nombre de archivo usado por esta fuente de diccionario"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:247
+msgid "The display name of this dictionary source"
+msgstr "El nombre para mostrar de esta fuente de diccionarios"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:260
+msgid "Description"
+msgstr "Descripción"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:261
+msgid "The description of this dictionary source"
+msgstr "La descripción de esta fuente de diccionarios"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:274
+#: ../gde2-dictionary/libgdict/gdict-speller.c:409
+msgid "Database"
+msgstr "Base de datos"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:275
+msgid "The default database of this dictionary source"
+msgstr "La base de datos predeterminada de esta fuente de diccionarios"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:288
+#: ../gde2-dictionary/libgdict/gdict-speller.c:416
+msgid "Strategy"
+msgstr "Estrategia"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:289
+msgid "The default strategy of this dictionary source"
+msgstr "La estrategia predeterminada de esta fuente de diccionario"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:302
+msgid "Transport"
+msgstr "Transporte"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:303
+msgid "The transport mechanism used by this dictionary source"
+msgstr "El mecanismo de transporte usado por esta fuente de diccionario"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:317
+#: ../gde2-dictionary/libgdict/gdict-speller.c:402
+msgid "Context"
+msgstr "Contexto"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:318
+msgid "The GdictContext bound to this source"
+msgstr "El objeto GdictContext vinculado con esta fuente"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:413
+#, c-format
+msgid "Invalid transport type '%d'"
+msgstr "Tipo de transporte inválido «%d»"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:441
+#, c-format
+msgid "No '%s' group found inside the dictionary source definition"
+msgstr "No se encontró ningún grupo «%s» dentro de la definición de fuente de diccionario"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:457
+#: ../gde2-dictionary/libgdict/gdict-source.c:481
+#: ../gde2-dictionary/libgdict/gdict-source.c:505
+#: ../gde2-dictionary/libgdict/gdict-source.c:530
+#, c-format
+msgid "Unable to get the '%s' key inside the dictionary source definition: %s"
+msgstr "No es posible obtener la clave «%s» dentro de la definición de fuente de diccionario: %s"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:555
+#, c-format
+msgid ""
+"Unable to get the '%s' key inside the dictionary source definition file: %s"
+msgstr "Imposible obtener la clave «%s» dentro del archivo de definición de fuentes de diccionario %s "
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:741
+#, c-format
+msgid "Dictionary source does not have name"
+msgstr "La fuente de diccionario no tiene nombre"
+
+#: ../gde2-dictionary/libgdict/gdict-source.c:750
+#, c-format
+msgid "Dictionary source '%s' has invalid transport '%s'"
+msgstr "La fuente de diccionario «%s» tiene un transporte inválido «%s»"
+
+#: ../gde2-dictionary/libgdict/gdict-source-chooser.c:322
+msgid "Reload the list of available sources"
+msgstr "Recargar la lista de fuentes disponibles"
+
+#: ../gde2-dictionary/libgdict/gdict-source-loader.c:171
+msgid "Paths"
+msgstr "Rutas"
+
+#: ../gde2-dictionary/libgdict/gdict-source-loader.c:172
+msgid "Search paths used by this object"
+msgstr "Rutas de búsqueda usadas por este objeto"
+
+#: ../gde2-dictionary/libgdict/gdict-source-loader.c:184
+msgid "Sources"
+msgstr "Fuentes"
+
+#: ../gde2-dictionary/libgdict/gdict-source-loader.c:185
+msgid "Dictionary sources found"
+msgstr "Se encontraron fuentes de diccionario"
+
+#: ../gde2-dictionary/libgdict/gdict-speller.c:377
+msgid "Clear the list of similar words"
+msgstr "Limpia la lista de palabras similares"
+
+#: ../gde2-dictionary/libgdict/gdict-speller.c:403
+msgid "The GdictContext object used to get the word definition"
+msgstr "El objeto GDictContext usado para obtener la definición de la palabra"
+
+#: ../gde2-dictionary/libgdict/gdict-speller.c:410
+msgid "The database used to query the GdictContext"
+msgstr "La base de datos usar para consultar el GDictContext"
+
+#: ../gde2-dictionary/libgdict/gdict-speller.c:417
+msgid "The strategy used to query the GdictContext"
+msgstr "La estrategia usada para consultar el GDictContext"
+
+#: ../gde2-dictionary/libgdict/gdict-strategy-chooser.c:390
+msgid "Reload the list of available strategies"
+msgstr "Recarga la lista de estrategias disponibles"
+
+#: ../gde2-dictionary/libgdict/gdict-strategy-chooser.c:402
+msgid "Clear the list of available strategies"
+msgstr "Limpia la lista de estrategias disponibles"
+
+#: ../gde2-dictionary/libgdict/gdict-utils.c:97
+msgid "GDict debugging flags to set"
+msgstr "Opciones de depuración de GDict que activar"
+
+#: ../gde2-dictionary/libgdict/gdict-utils.c:97
+#: ../gde2-dictionary/libgdict/gdict-utils.c:99
+msgid "FLAGS"
+msgstr "OPCIONES"
+
+#: ../gde2-dictionary/libgdict/gdict-utils.c:99
+msgid "GDict debugging flags to unset"
+msgstr "Opciones de depuración de GDict que desactivar"
+
+#: ../gde2-dictionary/libgdict/gdict-utils.c:157
+msgid "GDict Options"
+msgstr "Opciones del diccionario"
+
+#: ../gde2-dictionary/libgdict/gdict-utils.c:158
+msgid "Show GDict Options"
+msgstr "Mostrar las opciones del diccionario"
+
+#: ../gde2-dictionary/src/gdict-about.c:57
+#: ../gde2-dictionary/src/gdict-applet.c:606
+msgid "Look up words in dictionaries"
+msgstr "Busque palabras en diccionarios"
+
+#: ../gde2-dictionary/src/gdict-about.c:78
+#: ../gde2-dictionary/src/gdict-app.c:371
+#: ../gde2-dictionary/src/gdict-window.c:617
+#: ../gde2-dictionary/src/gdict-window.c:1990
+msgid "Dictionary"
+msgstr "Diccionario"
+
+#. Translators: the first is the word found, the second is the
+#. * database name and the last is the definition's text; please
+#. * keep the new lines.
+#: ../gde2-dictionary/src/gdict-app.c:217
+#, c-format
+msgid ""
+"Definition for '%s'\n"
+"  From '%s':\n"
+"\n"
+"%s\n"
+msgstr "Definición para «%s» \n De «%s»:\n\n%s\n"
+
+#: ../gde2-dictionary/src/gdict-app.c:231
+#, c-format
+msgid "Error: %s\n"
+msgstr "Error: %s\n"
+
+#: ../gde2-dictionary/src/gdict-app.c:257
+#, c-format
+msgid "See gde2-dictionary --help for usage\n"
+msgstr "Vea gde2-dictionary --help para el uso\n"
+
+#: ../gde2-dictionary/src/gdict-app.c:270
+msgid "Unable to find a suitable dictionary source"
+msgstr "No es posible encontrar una fuente de diccionario apropiada"
+
+#: ../gde2-dictionary/src/gdict-app.c:304
+#, c-format
+msgid ""
+"Error while looking up the definition of \"%s\":\n"
+"%s"
+msgstr "Error al buscar la definición de «%s»:\n%s"
+
+#: ../gde2-dictionary/src/gdict-app.c:333
+#: ../gde2-dictionary/src/gdict-app.c:343
+msgid "Words to look up"
+msgstr "Palabras que buscar"
+
+#: ../gde2-dictionary/src/gdict-app.c:333
+#: ../gde2-dictionary/src/gdict-app.c:335
+#: ../gde2-dictionary/src/gdict-app.c:343
+msgid "word"
+msgstr "palabra"
+
+#: ../gde2-dictionary/src/gdict-app.c:335
+msgid "Words to match"
+msgstr "Palabras que coincidir"
+
+#: ../gde2-dictionary/src/gdict-app.c:337
+msgid "Dictionary source to use"
+msgstr "Fuente de diccionarios que usar"
+
+#: ../gde2-dictionary/src/gdict-app.c:337
+msgid "source"
+msgstr "fuente"
+
+#: ../gde2-dictionary/src/gdict-app.c:339
+msgid "Print result to the console"
+msgstr "Imprimir el resultado en la consola"
+
+#: ../gde2-dictionary/src/gdict-app.c:341
+msgid "Database to use"
+msgstr "Base de datos a usar"
+
+#: ../gde2-dictionary/src/gdict-app.c:341
+msgid "db"
+msgstr "db"
+
+#. create the new option context
+#: ../gde2-dictionary/src/gdict-app.c:353
+msgid " - Look up words in dictionaries"
+msgstr " - Busque palabras en diccionarios"
+
+#: ../gde2-dictionary/src/gdict-applet.c:211
+#: ../gde2-dictionary/src/gdict-window.c:974
+msgid "Save a Copy"
+msgstr "Guardar una copia"
+
+#: ../gde2-dictionary/src/gdict-applet.c:221
+#: ../gde2-dictionary/src/gdict-window.c:984
+msgid "Untitled document"
+msgstr "Documento sin título"
+
+#: ../gde2-dictionary/src/gdict-applet.c:242
+#: ../gde2-dictionary/src/gdict-window.c:1005
+#, c-format
+msgid "Error while writing to '%s'"
+msgstr "Ocurrió un error al escribir en «%s»"
+
+#: ../gde2-dictionary/src/gdict-applet.c:370
+msgid "Clear the definitions found"
+msgstr "Limpia las definiciones encontradas"
+
+#: ../gde2-dictionary/src/gdict-applet.c:372
+msgid "Clear definition"
+msgstr "Vaciar definición"
+
+#: ../gde2-dictionary/src/gdict-applet.c:373
+msgid "Clear the text of the definition"
+msgstr "Vacía el texto de la definición"
+
+#: ../gde2-dictionary/src/gdict-applet.c:380
+msgid "Print the definitions found"
+msgstr "Imprime las definiciones encontradas"
+
+#: ../gde2-dictionary/src/gdict-applet.c:382
+msgid "Print definition"
+msgstr "Imprimir definición"
+
+#: ../gde2-dictionary/src/gdict-applet.c:383
+msgid "Print the text of the definition"
+msgstr "Imprime el texto de la definición"
+
+#: ../gde2-dictionary/src/gdict-applet.c:390
+msgid "Save the definitions found"
+msgstr "Guarda las definiciones encontradas"
+
+#: ../gde2-dictionary/src/gdict-applet.c:392
+msgid "Save definition"
+msgstr "Guardar definición"
+
+#: ../gde2-dictionary/src/gdict-applet.c:393
+msgid "Save the text of the definition to a file"
+msgstr "Guarda el texto de la definición a un archivo"
+
+#: ../gde2-dictionary/src/gdict-applet.c:545
+msgid "Click to view the dictionary window"
+msgstr "Pulse para ver la ventana del diccionario"
+
+#: ../gde2-dictionary/src/gdict-applet.c:547
+msgid "Toggle dictionary window"
+msgstr "Cambiar ventana del diccionario"
+
+#: ../gde2-dictionary/src/gdict-applet.c:548
+msgid "Show or hide the definition window"
+msgstr "Muestra u oculta la ventana de la definición"
+
+#: ../gde2-dictionary/src/gdict-applet.c:603
+msgid "Type the word you want to look up"
+msgstr "Teclee la palabra que quiere buscar"
+
+#: ../gde2-dictionary/src/gdict-applet.c:605
+msgid "Dictionary entry"
+msgstr "Entrada de diccionario"
+
+#: ../gde2-dictionary/src/gdict-applet.c:734
+#: ../gde2-dictionary/src/gdict-window.c:1116
+msgid "Dictionary Preferences"
+msgstr "Preferencias del diccionario"
+
+#: ../gde2-dictionary/src/gdict-applet.c:758
+#: ../gde2-dictionary/src/gdict-pref-dialog.c:495
+#: ../gde2-dictionary/src/gdict-source-dialog.c:478
+#: ../gde2-dictionary/src/gdict-window.c:1263
+#, c-format
+msgid "There was an error while displaying help"
+msgstr "Hubo un error al mostrar la ayuda"
+
+#: ../gde2-dictionary/src/gdict-applet.c:897
+#: ../gde2-dictionary/src/gdict-window.c:532
+#, c-format
+msgid "No dictionary source available with name '%s'"
+msgstr "No hay ninguna fuente de diccionario con el nombre «%s»"
+
+#: ../gde2-dictionary/src/gdict-applet.c:901
+#: ../gde2-dictionary/src/gdict-window.c:536
+msgid "Unable to find dictionary source"
+msgstr "No es posible encontrar la fuente del diccionario"
+
+#: ../gde2-dictionary/src/gdict-applet.c:917
+#: ../gde2-dictionary/src/gdict-window.c:552
+#, c-format
+msgid "No context available for source '%s'"
+msgstr "No hay contexto disponible para la fuente «%s»"
+
+#: ../gde2-dictionary/src/gdict-applet.c:921
+#: ../gde2-dictionary/src/gdict-window.c:556
+msgid "Unable to create a context"
+msgstr "Imposible crear un contexto"
+
+#: ../gde2-dictionary/src/gdict-applet.c:1189
+msgid "_Look Up Selected Text"
+msgstr "_Buscar el texto seleccionado"
+
+#: ../gde2-dictionary/src/gdict-applet.c:1192
+msgid "Cl_ear"
+msgstr "_Limpiar"
+
+#: ../gde2-dictionary/src/gdict-applet.c:1195
+msgid "_Print"
+msgstr "_Imprimir"
+
+#: ../gde2-dictionary/src/gdict-applet.c:1198
+msgid "_Save"
+msgstr "_Guardar"
+
+#: ../gde2-dictionary/src/gdict-applet.c:1201
+msgid "Preferences"
+msgstr "Preferencias"
+
+#: ../gde2-dictionary/src/gdict-common.c:80
+#, c-format
+msgid "Unable to rename file '%s' to '%s': %s"
+msgstr "Imposible renombrar el archivo «%s» a «%s»: %s"
+
+#: ../gde2-dictionary/src/gdict-common.c:104
+#: ../gde2-dictionary/src/gdict-common.c:127
+#, c-format
+msgid "Unable to create the data directory '%s': %s"
+msgstr "Imposible crear el directorio de datos «%s»: %s"
+
+#: ../gde2-dictionary/src/gdict-pref-dialog.c:240
+#: ../gde2-dictionary/src/gdict-pref-dialog.c:429
+msgid "Edit Dictionary Source"
+msgstr "Editar fuente de diccionario"
+
+#: ../gde2-dictionary/src/gdict-pref-dialog.c:304
+msgid "Add Dictionary Source"
+msgstr "Añadir una fuente de diccionario"
+
+#: ../gde2-dictionary/src/gdict-pref-dialog.c:349
+#, c-format
+msgid "Remove \"%s\"?"
+msgstr "¿Desea quitar «%s»?"
+
+#: ../gde2-dictionary/src/gdict-pref-dialog.c:351
+msgid "This will permanently remove the dictionary source from the list."
+msgstr "Esto quitará permanentemente la fuente de diccionarios de la lista."
+
+#: ../gde2-dictionary/src/gdict-pref-dialog.c:381
+#, c-format
+msgid "Unable to remove source '%s'"
+msgstr "No se puede quitar la fuente «%s»"
+
+#: ../gde2-dictionary/src/gdict-pref-dialog.c:642
+msgid "Add a new dictionary source"
+msgstr "Añadir una fuente de diccionarios nueva"
+
+#: ../gde2-dictionary/src/gdict-pref-dialog.c:648
+msgid "Remove the currently selected dictionary source"
+msgstr "Quitar la fuente de diccionarios actualmente seleccionada"
+
+#: ../gde2-dictionary/src/gdict-pref-dialog.c:654
+msgid "Edit the currently selected dictionary source"
+msgstr "Editar la fuente de diccionarios actualmente seleccionada"
+
+#: ../gde2-dictionary/src/gdict-pref-dialog.c:662
+msgid "Set the font used for printing the definitions"
+msgstr "Establece la tipografía usada para imprimir las definiciones"
+
+#: ../gde2-dictionary/src/gdict-print.c:241
+#: ../gde2-dictionary/src/gdict-print.c:305
+#, c-format
+msgid "Unable to display the preview: %s"
+msgstr "No se puede mostrar la vista preliminar: %s"
+
+#: ../gde2-dictionary/src/gdict-source-dialog.c:340
+#: ../gde2-dictionary/src/gdict-source-dialog.c:433
+msgid "Unable to create a source file"
+msgstr "Imposible crear un archivo de fuentes"
+
+#: ../gde2-dictionary/src/gdict-source-dialog.c:358
+#: ../gde2-dictionary/src/gdict-source-dialog.c:451
+msgid "Unable to save source file"
+msgstr "Imposible guardar el archivo de fuentes"
+
+#: ../gde2-dictionary/src/gdict-window.c:327
+#, c-format
+msgid "Searching for '%s'..."
+msgstr "Buscando «%s»…"
+
+#: ../gde2-dictionary/src/gdict-window.c:359
+#: ../gde2-dictionary/src/gdict-window.c:416
+msgid "No definitions found"
+msgstr "No se encontraron definiciones"
+
+#: ../gde2-dictionary/src/gdict-window.c:361
+#, c-format
+msgid "A definition found"
+msgid_plural "%d definitions found"
+msgstr[0] "Se ha encontrado una definición"
+msgstr[1] "Se han encontrado %d definiciones"
+
+#: ../gde2-dictionary/src/gdict-window.c:615
+#, c-format
+msgid "%s - Dictionary"
+msgstr "Diccionario - %s"
+
+#: ../gde2-dictionary/src/gdict-window.c:1300
+msgid "_Go"
+msgstr "_Ir"
+
+#. File menu
+#: ../gde2-dictionary/src/gdict-window.c:1304
+msgid "_New"
+msgstr "_Nuevo"
+
+#: ../gde2-dictionary/src/gdict-window.c:1305
+msgid "New look up"
+msgstr "Nueva búsqueda"
+
+#: ../gde2-dictionary/src/gdict-window.c:1306
+msgid "_Save a Copy..."
+msgstr "_Guardar una copia…"
+
+#: ../gde2-dictionary/src/gdict-window.c:1308
+msgid "P_review..."
+msgstr "Vista p_reliminar…"
+
+#: ../gde2-dictionary/src/gdict-window.c:1309
+msgid "Preview this document"
+msgstr "Vista preliminar de este documento"
+
+#: ../gde2-dictionary/src/gdict-window.c:1310
+msgid "_Print..."
+msgstr "Im_primir…"
+
+#: ../gde2-dictionary/src/gdict-window.c:1311
+msgid "Print this document"
+msgstr "Imprime este documento"
+
+#: ../gde2-dictionary/src/gdict-window.c:1321
+msgid "Find a word or phrase in the document"
+msgstr "Buscar una palabra o frase en el documento"
+
+#: ../gde2-dictionary/src/gdict-window.c:1323
+msgid "Find Ne_xt"
+msgstr "Buscar _siguiente"
+
+#: ../gde2-dictionary/src/gdict-window.c:1325
+msgid "Find Pre_vious"
+msgstr "Buscar _anterior"
+
+#: ../gde2-dictionary/src/gdict-window.c:1327
+msgid "_Preferences"
+msgstr "Prefere_ncias"
+
+#. Go menu
+#: ../gde2-dictionary/src/gdict-window.c:1331
+msgid "_Previous Definition"
+msgstr "Definición _anterior"
+
+#: ../gde2-dictionary/src/gdict-window.c:1332
+msgid "Go to the previous definition"
+msgstr "Va a la anterior definición"
+
+#: ../gde2-dictionary/src/gdict-window.c:1333
+msgid "_Next Definition"
+msgstr "_Siguiente definición"
+
+#: ../gde2-dictionary/src/gdict-window.c:1334
+msgid "Go to the next definition"
+msgstr "Va a la siguiente definición"
+
+#: ../gde2-dictionary/src/gdict-window.c:1335
+msgid "_First Definition"
+msgstr "_Primera definición"
+
+#: ../gde2-dictionary/src/gdict-window.c:1336
+msgid "Go to the first definition"
+msgstr "Va a la última definición"
+
+#: ../gde2-dictionary/src/gdict-window.c:1337
+msgid "_Last Definition"
+msgstr "Ú_ltima definición"
+
+#: ../gde2-dictionary/src/gdict-window.c:1338
+msgid "Go to the last definition"
+msgstr "Ir a la última definición"
+
+#. View menu
+#: ../gde2-dictionary/src/gdict-window.c:1341
+msgid "Similar _Words"
+msgstr "Palabras _similares"
+
+#: ../gde2-dictionary/src/gdict-window.c:1343
+msgid "Dictionary Sources"
+msgstr "Fuentes de diccionario"
+
+#: ../gde2-dictionary/src/gdict-window.c:1345
+msgid "Available _Databases"
+msgstr "_Bases de datos disponibles"
+
+#: ../gde2-dictionary/src/gdict-window.c:1347
+msgid "Available St_rategies"
+msgstr "_Estrategias disponibles"
+
+#. View menu
+#: ../gde2-dictionary/src/gdict-window.c:1364
+msgid "_Sidebar"
+msgstr "_Barra lateral"
+
+#: ../gde2-dictionary/src/gdict-window.c:1366
+msgid "S_tatusbar"
+msgstr "Barra de _estado"
+
+#: ../gde2-dictionary/src/gdict-window.c:1431
+#, c-format
+msgid "Dictionary source `%s' selected"
+msgstr "Fuente de diccionario «%s» seleccionada"
+
+#: ../gde2-dictionary/src/gdict-window.c:1452
+#, c-format
+msgid "Strategy `%s' selected"
+msgstr "Estrategia «%s» seleccionada"
+
+#: ../gde2-dictionary/src/gdict-window.c:1472
+#, c-format
+msgid "Database `%s' selected"
+msgstr "Base de datos «%s» seleccionada"
+
+#: ../gde2-dictionary/src/gdict-window.c:1492
+#, c-format
+msgid "Word `%s' selected"
+msgstr "Palabra «%s» seleccionada"
+
+#. speller
+#: ../gde2-dictionary/src/gdict-window.c:1517
+msgid "Double-click on the word to look up"
+msgstr "Pulse dos veces en la palabra que quiere buscar"
+
+#. strat-chooser
+#: ../gde2-dictionary/src/gdict-window.c:1523
+msgid "Double-click on the matching strategy to use"
+msgstr "Pulse dos veces en la estrategia que usar"
+
+#. source-chooser
+#: ../gde2-dictionary/src/gdict-window.c:1528
+msgid "Double-click on the source to use"
+msgstr "Pulse dos veces en la fuente que usar"
+
+#. db-chooser
+#: ../gde2-dictionary/src/gdict-window.c:1537
+msgid "Double-click on the database to use"
+msgstr "Pulse dos veces en la base de datos que usar"
+
+#: ../gde2-dictionary/src/gdict-window.c:1792
+msgid "Look _up:"
+msgstr "_Buscar:"
+
+#: ../gde2-dictionary/src/gdict-window.c:1871
+msgid "Similar words"
+msgstr "Palabras similares"
+
+#: ../gde2-dictionary/src/gdict-window.c:1884
+msgid "Available dictionaries"
+msgstr "Diccionarios disponibles"
+
+#: ../gde2-dictionary/src/gdict-window.c:1902
+msgid "Available strategies"
+msgstr "Estrategias disponibles"
+
+#: ../gde2-dictionary/src/gdict-window.c:1918
+msgid "Dictionary sources"
+msgstr "Fuentes de diccionario"
+
+#: ../gde2-dictionary/data/gde2-dictionary-preferences.ui.h:1
+msgid "_Select a dictionary source for looking up words:"
+msgstr "_Seleccione una fuente de diccionarios para buscar palabras:"
+
+#: ../gde2-dictionary/data/gde2-dictionary-preferences.ui.h:2
+#: ../gde2-dictionary/data/gde2-dictionary-source.ui.h:6
+msgid "Source"
+msgstr "Fuente"
+
+#: ../gde2-dictionary/data/gde2-dictionary-preferences.ui.h:3
+msgid "_Print font:"
+msgstr "Tipografía de _impresión:"
+
+#: ../gde2-dictionary/data/gde2-dictionary-preferences.ui.h:4
+msgid "Print"
+msgstr "Imprimir"
+
+#: ../gde2-dictionary/data/gde2-dictionary-source.ui.h:1
+msgid "_Description:"
+msgstr "_Descripción:"
+
+#: ../gde2-dictionary/data/gde2-dictionary-source.ui.h:2
+msgid "_Transport:"
+msgstr "_Transporte:"
+
+#: ../gde2-dictionary/data/gde2-dictionary-source.ui.h:3
+msgid "H_ostname:"
+msgstr "_Servidor:"
+
+#: ../gde2-dictionary/data/gde2-dictionary-source.ui.h:5
+msgid "Source Name"
+msgstr "Nombre de la fuente"
+
+#: ../gde2-dictionary/data/gde2-dictionary-source.ui.h:7
+msgid "Dictionaries"
+msgstr "Diccionarios"
+
+#: ../gde2-dictionary/data/gde2-dictionary-source.ui.h:8
+msgid "Strategies"
+msgstr "Estrategias"
+
+#: ../gde2-screenshot/data/gde2-screenshot.appdata.xml.in.h:1
+msgid "A screenshot utility for GDE2 Desktop"
+msgstr "Una utilidad de captura de pantalla para el escritorio GDE2"
+
+#: ../gde2-screenshot/data/gde2-screenshot.appdata.xml.in.h:2
+msgid ""
+"<p> GDE2 Screenshot is a simple utility that lets you capture screenshots of"
+" your desktop or of application windows. You can select to copy them to the "
+"system clipboard or save them in Portable Network Graphics (.png) image "
+"format. </p>"
+msgstr "<p> GDE2 Screenshot es una utilidad simple que le permite tomar capturas de pantalla de su escritorio o de las ventanas de la aplicación. Puede seleccionar para copiarlos al portapapeles del sistema o guardarlos en el formato de imagen Portable Network Graphics (.png). </p>"
+
+#: ../gde2-screenshot/data/gde2-screenshot.desktop.in.h:1
+#: ../gde2-screenshot/src/gde2-screenshot.c:594
+#: ../gde2-screenshot/src/gde2-screenshot.c:606
+msgid "Take Screenshot"
+msgstr "Capturar pantalla"
+
+#: ../gde2-screenshot/data/gde2-screenshot.desktop.in.h:2
+msgid "Save images of your desktop or individual windows"
+msgstr "Guarde imágenes de su escritorio o ventanas individuales"
+
+#: ../gde2-screenshot/data/gde2-screenshot.ui.h:1
+#: ../gde2-screenshot/data/gde2-screenshot-gtk3.ui.h:1
+msgid "Save Screenshot"
+msgstr "Guardar la captura de pantalla"
+
+#: ../gde2-screenshot/data/gde2-screenshot.ui.h:2
+#: ../gde2-screenshot/data/gde2-screenshot-gtk3.ui.h:2
+msgid "C_opy to Clipboard"
+msgstr "C_opiar al portapapeles"
+
+#: ../gde2-screenshot/data/gde2-screenshot.ui.h:4
+#: ../gde2-screenshot/data/gde2-screenshot-gtk3.ui.h:4
+msgid "Save in _folder:"
+msgstr "Guardar en la _carpeta:"
+
+#: ../gde2-screenshot/data/gde2-screenshot.ui.h:5
+msgid "*"
+msgstr "*"
+
+#: ../gde2-screenshot/data/org.gde2.screenshot.gschema.xml.in.h:1
+msgid "Screenshot delay"
+msgstr "Retardo de la captura"
+
+#: ../gde2-screenshot/data/org.gde2.screenshot.gschema.xml.in.h:2
+msgid "The number of seconds to wait before taking the screenshot."
+msgstr "El número de segundos que esperar antes de obtener la captura."
+
+#: ../gde2-screenshot/data/org.gde2.screenshot.gschema.xml.in.h:3
+msgid "Screenshot directory"
+msgstr "Directorio de capturas"
+
+#: ../gde2-screenshot/data/org.gde2.screenshot.gschema.xml.in.h:4
+msgid "The directory the last screenshot was saved in."
+msgstr "El directorio donde se guardó la última captura."
+
+#: ../gde2-screenshot/data/org.gde2.screenshot.gschema.xml.in.h:5
+msgid "Include Border"
+msgstr "Incluir borde"
+
+#: ../gde2-screenshot/data/org.gde2.screenshot.gschema.xml.in.h:6
+msgid "Include the window manager border along with the screenshot"
+msgstr "Incluir el borde del gestor de ventanas junto con la captura de pantalla"
+
+#: ../gde2-screenshot/data/org.gde2.screenshot.gschema.xml.in.h:7
+msgid "Include Pointer"
+msgstr "Incluir puntero"
+
+#: ../gde2-screenshot/data/org.gde2.screenshot.gschema.xml.in.h:8
+msgid "Include the pointer in the screenshot"
+msgstr "Incluir el puntero en la captura de pantalla"
+
+#: ../gde2-screenshot/data/org.gde2.screenshot.gschema.xml.in.h:9
+msgid "Border Effect"
+msgstr "Efecto del borde"
+
+#: ../gde2-screenshot/data/org.gde2.screenshot.gschema.xml.in.h:10
+msgid ""
+"Effect to add to the outside of a border. Possible values are \"shadow\", "
+"\"none\", and \"border\"."
+msgstr "Efecto para añadir al contorno exterior de un borde. Los valores posibles son \"shadow\", \"none\", y \"border\"."
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:133
+msgid "Error loading the help page"
+msgstr "Error al cargar la página de ayuda"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:245
+msgid "None"
+msgstr "Ninguno"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:246
+msgid "Drop shadow"
+msgstr "Sombra base"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:247
+msgid "Border"
+msgstr "Borde"
+
+#. * Include pointer *
+#: ../gde2-screenshot/src/gde2-screenshot.c:376
+msgid "Include _pointer"
+msgstr "Incluir _puntero"
+
+#. * Include window border *
+#: ../gde2-screenshot/src/gde2-screenshot.c:385
+msgid "Include the window _border"
+msgstr "Incluir el _borde de ventana"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:404
+msgid "Apply _effect:"
+msgstr "Aplicar _efecto:"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:500
+msgid "Grab the whole _desktop"
+msgstr "Capturar todo el _escritorio"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:512
+msgid "Grab the current _window"
+msgstr "Capturar la _ventana actual"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:524
+msgid "Select _area to grab"
+msgstr "Seleccionar _área que capturar"
+
+#. translators: this is the first part of the "grab after a
+#. * delay of <spin button> seconds".
+#: ../gde2-screenshot/src/gde2-screenshot.c:546
+msgid "Grab _after a delay of"
+msgstr "Capturar con un _retraso de"
+
+#. translators: this is the last part of the "grab after a
+#. * delay of <spin button> seconds".
+#: ../gde2-screenshot/src/gde2-screenshot.c:571
+#: ../gde2-screenshot/src/gde2-screenshot.c:1344
+msgid "seconds"
+msgstr "segundos"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:607
+msgid "Effects"
+msgstr "Efectos"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:611
+msgid "Take _Screenshot"
+msgstr "Cap_turar pantalla"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:730
+msgid "Error while saving screenshot"
+msgstr "Error al guardar la captura de pantalla"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:733
+#, c-format
+msgid ""
+"Impossible to save the screenshot to %s.\n"
+" Error was %s.\n"
+" Please choose another location and retry."
+msgstr "No se pudo guardar la captura de pantalla en %s.\n El error fue %s.\n Elija otra ubicación e inténtelo de nuevo."
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:865
+msgid "Screenshot taken"
+msgstr "Captura de pantalla obtenida"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:920
+msgid "Unable to take a screenshot of the current window"
+msgstr "No se puede tomar una captura de pantalla de la ventana actual"
+
+#. Translators: This is a strftime format string.
+#. * It is used to display the time in 24-hours format (eg, like
+#. * in France: 20:10) but using hyphens in place of colons.
+#: ../gde2-screenshot/src/gde2-screenshot.c:973
+msgid "%Y-%m-%d %H-%M-%S"
+msgstr ""
+
+#. translators: this is the name of the file that gets made up
+#. * with the screenshot if the entire screen is taken
+#: ../gde2-screenshot/src/gde2-screenshot.c:980
+#, c-format
+msgid "Screenshot at %s.png"
+msgstr "Pantallazo-%s.png"
+
+#. translators: this is the name of the file that gets
+#. * made up with the screenshot if the entire screen is
+#. * taken
+#: ../gde2-screenshot/src/gde2-screenshot.c:987
+#, c-format
+msgid "Screenshot at %s - %d.png"
+msgstr "Pantallazo-%s-%d.png"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:1340
+msgid "Grab a window instead of the entire screen"
+msgstr "Capturar una ventana en vez de la pantalla entera"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:1341
+msgid "Grab an area of the screen instead of the entire screen"
+msgstr "Capturar un área de la pantalla en lugar de la pantalla entera"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:1342
+msgid "Include the window border with the screenshot"
+msgstr "Incluir el borde de la ventana en la captura de pantalla"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:1343
+msgid "Remove the window border from the screenshot"
+msgstr "Quitar el borde de la ventana de la captura de pantalla"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:1344
+msgid "Take screenshot after specified delay [in seconds]"
+msgstr "Capturar la pantalla después del retardo especificado [en segundos]"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:1345
+msgid "Effect to add to the border (shadow, border or none)"
+msgstr "Efecto para añadir al borde (sombra, borde o ninguno)"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:1345
+msgid "effect"
+msgstr "efecto"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:1346
+msgid "Interactively set options"
+msgstr "Establecer las opciones interactivamente"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:1347
+msgid "Print version information and exit"
+msgstr "Imprimir información de la versión y salir"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:1356
+msgid "Take a picture of the screen"
+msgstr "Capturar imagen de la pantalla"
+
+#: ../gde2-screenshot/src/gde2-screenshot.c:1379
+#, c-format
+msgid ""
+"Conflicting options: --window and --area should not be used at the same "
+"time.\n"
+msgstr "Opciones con conflictos: --window y --area no se deberían usar a la vez.\n"
+
+#: ../gde2-screenshot/src/screenshot-dialog.c:258
+#, c-format
+msgid ""
+"Error loading UI definition file for the screenshot program: \n"
+"%s\n"
+"\n"
+"Please check your installation of gde2-utils."
+msgstr "Falta el archivo de definición de la IU para el programa de captura de pantalla: \n%s\n\nRevise su instalación de gde2-utils."
+
+#: ../gde2-screenshot/src/screenshot-dialog.c:281
+msgid "Select a folder"
+msgstr "Selecciona una carpeta"
+
+#: ../gde2-screenshot/src/screenshot-dialog.c:381
+#: ../gde2-screenshot/src/screenshot-save.c:196
+msgid "Screenshot.png"
+msgstr "Pantallazo.png"
+
+#: ../gde2-screenshot/src/screenshot-save.c:57
+#, c-format
+msgid ""
+"Unable to clear the temporary folder:\n"
+"%s"
+msgstr "Imposible limpiar la carpeta temporal:\n%s"
+
+#: ../gde2-screenshot/src/screenshot-save.c:95
+msgid ""
+"The child save process unexpectedly exited.  We are unable to write the "
+"screenshot to disk."
+msgstr "El proceso de guardado hijo salió inesperadamente. No es posible escribir la captura al disco."
+
+#: ../gde2-screenshot/src/screenshot-save.c:223
+msgid "Unknown error saving screenshot to disk"
+msgstr "Error desconocido al guardar la captura de pantalla al disco"
+
+#. TODO: maybe we should also look at WM_NAME and WM_CLASS?
+#: ../gde2-screenshot/src/screenshot-utils.c:1039
+msgid "Untitled Window"
+msgstr "Ventana sin título"
+
+#: ../gde2-screenshot/src/screenshot-xfer.c:72
+msgid "File already exists"
+msgstr "El archivo ya existe"
+
+#: ../gde2-screenshot/src/screenshot-xfer.c:75
+#, c-format
+msgid "The file \"%s\" already exists. Would you like to replace it?"
+msgstr "El archivo «%s» ya existe. ¿Desea reemplazarlo?"
+
+#: ../gde2-screenshot/src/screenshot-xfer.c:120
+msgid "Saving file..."
+msgstr "Guardando archivo…"
+
+#: ../gde2-screenshot/src/screenshot-xfer.c:290
+msgid "Can't access source file"
+msgstr "No se puede acceder al archivo de fuentes"

@@ -1,0 +1,15 @@
+[Desktop Entry]
+_Name=GDE2 Search Tool
+_Comment=Locate documents and folders on this computer by name or content
+Exec=gde2-search-tool
+Icon=system-search
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;Utility;Core;
+Keywords=GDE2;search;files;locate;documents;folders;computer;name;content;find;tool;
+OnlyShowIn=GDE2;
+X-GDE2-DocPath=gde2-search-tool/gde2-search-tool.xml
+X-GDE2-Bugzilla-Bugzilla=GDE2
+X-GDE2-Bugzilla-Product=gde2-utils
+X-GDE2-Bugzilla-Component=gsearchtool

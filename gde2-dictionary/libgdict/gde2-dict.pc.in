@@ -1,0 +1,12 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+
+Name: gdict-1.0
+Description: GDE2 Dictionary Protocol client library
+Requires: gtk+-@GTK_API_VERSION@ >= @GTK_REQUIRED@
+Version: @GDICT_VERSION@
+Libs: -L${libdir} -lgde2dict
+Cflags: -I${includedir}/gde2-dict
+

@@ -1,0 +1,30 @@
+GDE2 Utilities
+===============================================================================
+
+GDE2 Utilities for the GDE2 Desktop contains the following:
+
+        gde2-system-log          [logview]
+        gde2-search-tool         [gseachtool]
+        gde2-dictionary          [gde2-dictionary]
+        gde2-screenshot          [gde2-screenshot]
+        gde2-disk-usage-analyzer [baobab]
+
+This is a fork of GNOME Utilities.
+
+Requirements:
+
+        intltool                 >= 0.50.1
+        gde2-common              >= 1.10.0
+        glib                     >= 2.36.0
+        gio                      >= 2.36.0
+        gtk+                     >= 2.24.0
+        libgde2-panel-applet     >= 1.7.0
+        libgtop                  >= 2.12.0
+        libcanberra-gtk          >= 0.4
+
+The following configure flags can be used:
+
+  --enable-zlib                   Enable ZLib support for Logview [default=yes]
+  --with-grep                     Specify the path to the grep
+                                  command [default=find it ourselves]
+  --enable-debug                  Enable debug messages [default=no]

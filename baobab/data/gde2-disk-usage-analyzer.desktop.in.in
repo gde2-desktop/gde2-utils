@@ -1,0 +1,16 @@
+[Desktop Entry]
+_Name=GDE2 Disk Usage Analyzer
+_Comment=Check folder sizes and available disk space
+TryExec=gde2-disk-usage-analyzer
+Exec=gde2-disk-usage-analyzer
+Icon=gde2-disk-usage-analyzer
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;System;Filesystem;
+Keywords=GDE2;check;disk;usage;analyze;size;space;
+OnlyShowIn=GDE2;
+X-GDE2-Bugzilla-Bugzilla=GDE2
+X-GDE2-Bugzilla-Product=gde2-utils
+X-GDE2-Bugzilla-Component=gde2-disk-usage-analyzer
+X-GDE2-Bugzilla-Version=@VERSION@

@@ -1,0 +1,16 @@
+[Desktop Entry]
+_Name=GDE2 Dictionary
+_Comment=Check word definitions and spellings in an online dictionary
+Exec=gde2-dictionary
+Terminal=false
+Type=Application
+Icon=accessories-dictionary
+StartupNotify=true
+Categories=GTK;Office;Dictionary;
+Keywords=GDE2;dictionary;applet;thesaurus;spelling;definitions;online;
+OnlyShowIn=GDE2;
+X-GDE2-DocPath=gde2-dictionary/gde2-dictionary.xml
+X-GDE2-Bugzilla-Bugzilla=GDE2
+X-GDE2-Bugzilla-Product=gde2-utils
+X-GDE2-Bugzilla-Component=gdict
+X-GDE2-Bugzilla-Version=@VERSION@

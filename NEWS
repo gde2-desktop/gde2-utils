@@ -1,0 +1,72 @@
+1.16.1
+
+  * Screenshot: fix showing busy cursor when saving area
+    screenshot
+  * Screenshot: don't translate timestamp in the filename
+  * Several build fixes for possible breakages
+
+1.16.0
+
+  * Add --version command line option to gde2-screenshot
+  * GTK+3: fix gde2-dictionary segfault with 3.21
+  * GTK+3: fix lots of deprecations in all apps
+  * Translations update
+
+1.14.1
+
+  * Require proper GTK+ version in gde2-dict.pc file
+  * Some assorted fixes
+  * Translations update
+  * Make distcheck use currently selected GTK+ version
+
+1.14.0
+
+  * Drop Gde2Conf migration scripts
+  * Disable effects and delay options in gde2-screenshot UI
+    when launched with -ai command line argument
+  * Use hyphens instead of colons in screenshot filenames
+    by default
+  * GTK+3: fix a lot of deprecations and some UI issues
+  * Don't use -Werror flag in build
+  * Some more fixes and cleanups
+  * Translations update
+  * Fix Changelog generation
+
+1.12.0
+
+  * Add application icon to gde2-system-log
+  * Add timestamp instead of window name to screenshot
+    filenames by default
+  * Have dictionary applet background automatically painted
+  * Translation fixes for gsettings schemas
+  * Some more fixes and cleanups (including source tree
+    reorganization)
+
+1.10.3
+
+  * Fixed silent rules option by dropping obsolete "shave"
+    stuff
+  * Made gde2-system-log remember the active log on exit
+  * Fixed potential crash in gde2-system-log
+  * Various other bugfixes in gde2-system-log
+  * Removed dead spanish server entry from gde2-dictionary
+  * Fixed gde2-dictionary's command-line options and manpage
+  * Made Ctrl+A and Ctrl+C work in gde2-dictionary's search
+    field
+
+1.10.2
+
+  * Several help fixes
+
+1.10.1
+
+  * Fix gschema translations
+
+1.10.0
+
+  * Add GTK3 support
+
+1.8.0
+
+  * Use yelp-tools instead of gde2-doc-utils
+  * Bugfixes

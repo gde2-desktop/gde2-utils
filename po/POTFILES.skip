@@ -1,0 +1,6 @@
+# List of source files that should *not* be translated.
+# Please keep this file sorted alphabetically.
+baobab/data/gde2-disk-usage-analyzer.desktop.in
+logview/data/gde2-system-log.desktop.in
+gde2-dictionary/data/gde2-dictionary.desktop.in
+

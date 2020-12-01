@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 GDE2 team <gde2-dev@ml.gde2-desktop.org> -->
+<component type="desktop">
+ <id>gde2-dictionary.desktop</id>
+ <metadata_license>CC0-1.0</metadata_license>
+ <project_license>GPL-2.0+</project_license>
+ <name>GDE2 Dictionary</name>
+ <_summary>A dictionary for GDE2 Desktop</_summary>
+ <_description>
+  <p>
+   GDE2 Dictionary allows you to look up words in on-line dictionaries.
+   It comes preconfigured with a list of Dict servers (RFC 2229), to which
+   you can add your own sources, while you can select specific servers
+   for a specific query.
+  </p>
+ </_description>
+ <screenshots>
+  <screenshot type="default">
+   <image width="960" height="540">
+    https://alexpl.fedorapeople.org/AppData/gde2-dictionary/screens/gde2-dictionary_01.png
+   </image>
+  </screenshot>
+  <screenshot>
+   <image width="688" height="387">
+    https://alexpl.fedorapeople.org/AppData/gde2-dictionary/screens/gde2-dictionary_02.png
+   </image>
+  </screenshot>
+ </screenshots>
+ <url type="homepage">http://www.gde2-desktop.org</url>
+ <updatecontact>gde2-dev@ml.gde2-desktop.org</updatecontact>
+ <project_group>GDE2</project_group>
+</component>

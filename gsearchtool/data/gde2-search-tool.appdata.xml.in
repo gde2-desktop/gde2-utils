@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 GDE2 team <gde2-dev@ml.gde2-desktop.org> -->
+<component type="desktop">
+ <id>gde2-search-tool.desktop</id>
+ <metadata_license>CC0-1.0</metadata_license>
+ <project_license>GPL-2.0+</project_license>
+ <name>GDE2 Search Tool</name>
+ <_summary>A file searching tool for GDE2 Desktop</_summary>
+ <_description>
+  <p>
+   GDE2 Search Tool is a simple but powerful utility that allows you to
+   search for files and folders on any mounted file system. Its interface
+   gives you instant access to a wide variety of parameters for each search,
+   such as text contained within a file, ownership, date of modification,
+   file size, folder exclusion, etc..
+  </p>
+ </_description>
+ <screenshots>
+  <screenshot type="default">
+   <image width="960" height="540">
+    https://alexpl.fedorapeople.org/AppData/gde2-search-tool/screens/gde2-search-tool_01.png
+   </image>
+  </screenshot>
+  <screenshot>
+   <image width="960" height="540">
+    https://alexpl.fedorapeople.org/AppData/gde2-search-tool/screens/gde2-search-tool_02.png
+   </image>
+  </screenshot>
+ </screenshots>
+ <url type="homepage">http://www.gde2-desktop.org</url>
+ <updatecontact>gde2-dev@ml.gde2-desktop.org</updatecontact>
+ <project_group>GDE2</project_group>
+</component>
